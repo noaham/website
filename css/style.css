@@ -1,0 +1,267 @@
+body, a, p, h1, h2 { /* I had to change this from '*'' to 'body,..,h2' as it was conflicting with mathjax */
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color: #292929; /*dark grey*/
+}
+
+/*------------------------------------- sidebar area */
+
+header {
+	position: absolute; 
+	top: 3em;
+	left: 2em;
+	margin-left: -8px; /*optically align with nav*/
+	width: 20%;
+}
+
+	header img { /*your portrait photo*/
+		transition: all 0.5s ease-out;
+
+		width: 66px;
+		float: left;
+		border-radius: 50%;
+		margin-right: 0.75em;
+		opacity: 0.75;
+
+		-webkit-filter: grayscale(100%);
+		-moz-filter: grayscale(100%);
+		filter: grayscale(100%);
+	}
+
+		header img:hover {
+			opacity: 0.9;
+			-webkit-filter: grayscale(0%);
+			-moz-filter: grayscale(0%);
+			filter: grayscale(0%);
+		}
+
+header h1 {
+	font-size: 1em;
+	font-weight: 400;
+	margin: 6pt 0 1pt;
+}
+
+header p { /*the by-line*/
+	font-size: 8pt;
+	font-style: italic;
+	line-height: 120%;
+	margin: 0;
+}
+
+nav {
+	position: absolute; /*in a fixed spot, but will scroll with page (JS will change this to position: fixed) */
+	float: left;
+	margin-top: 22px; /*align with first section h1*/
+	left: 2em;
+	width: 17em;
+	font-size: 10pt;
+}
+
+	nav ul li ul { /*the sub-list/sub-menu (links or headers within a page)*/
+		border-left: 1pt solid hsla(0, 0%, 0%, 0.1);
+		padding-left: 1em;
+		margin-left: 8pt;
+	}
+
+
+
+/*------------------------------------- main body-copy area */
+
+body {
+	max-width: 620px;
+	margin: 0 auto 2.5em;
+}
+
+a {
+	transition: all 0.2s ease-out;
+	border-bottom: 1px solid hsla(0, 0%, 0%, 0.1);
+	text-decoration: none;
+
+}
+
+	a:hover {
+		color: hsla(202, 100%, 44%, 1);
+		border-bottom: 1px solid hsla(202, 100%, 44%, 0.5);
+		background-color: hsla(202, 100%, 44%, 0.1);
+	}
+
+section h1 {
+	font-size: 28pt;
+	line-height: 60%;
+	/*color: hsla(202, 100%, 44%, 1);*/
+}
+
+section p {
+	font-size: 1em;
+	line-height: 1.65em;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+section {
+	padding-top: 11pt; /*to align horizontally with nav*/
+	padding-bottom: 3em;
+}
+
+	section:first-child { /*the first section at the top of the page*/
+		margin-top: 120px; /*to align with nav when scrolled to top (page load default)*/
+	}
+
+	section ul,
+	section table {
+		margin-left: 1em; /*indents for readability*/
+	}
+
+table, ul {
+	line-height: 1.75em;
+	width: 100%;
+}
+
+td {
+	vertical-align: top; /*e:, p: and a: labels at top rather than vertically center*/
+}
+
+#contact table td:first-child,
+#events table td:first-child { /*right-align text for relevant columns*/
+	text-align: right;
+	padding-right: 1em;
+}
+
+	#contact table {
+		margin-left: 6px;
+	}
+
+	#events table {
+		margin-left: 9px;
+	}
+
+#contact table td:first-child {
+	width: 1.5em; /*tighter column gutter*/
+}
+
+#events table td:nth-child(2) {
+	width: 3.4em; /*looser column gutter*/
+}
+
+#teaching table td:first-child {
+	width: 21.5em; /*consistent column gutters for each table*/
+}
+
+#teaching p:not(:first-of-type) { /*add space before info sub-sections, except the first*/
+	padding-top: 1em;
+}
+
+
+
+/*------------------------------------- misc */
+
+::selection { /*should stay at bottom to prevent conflicts*/
+	background-color: hsla(202, 100%, 44%, 0.1);
+	/*color: hsla(202, 100%, 44%, 1);*/
+};
+
+.clear{clear:both;display:block;overflow:hidden;visibility:hidden;width:0;height:0}.clearfix:after{clear:both;content:' ';display:block;font-size:0;line-height:0;visibility:hidden;width:0;height:0}* html .clearfix,*:first-child+html .clearfix{zoom:1}
+
+
+
+/*------------------------------------- media queries */
+
+@media screen and (max-width: 1119px) {
+	body {
+		padding: 3em 1em 0;
+		margin: 0 auto;
+	}
+
+
+	section h1 {
+		font-size: 1.8em;
+		line-height: 100%;
+	}
+
+
+
+	header, nav {
+		position: static;
+		float: left;
+
+	}
+
+	header {
+		width: 60%;
+		left: 0;
+		margin-left: 0px; /*remove optical alignment to nav from full-width display*/
+	}
+
+	header img {
+		margin-bottom: 0;
+	}
+
+	nav {
+		text-align: right;
+		width: 40%;
+		margin-top: 0;
+		left: auto;
+	}
+
+		nav ul {
+			margin: 0 auto;
+		}
+
+			nav ul li ul { /*the sub-list*/
+				display: none;
+			}
+
+
+	section {
+		padding-top: 0;
+		padding-bottom: 2em;
+	}
+
+		section:first-child {
+			margin-top: 6em; /*to align with nav when scrolled to top (page load default)*/
+			border-top: 1px solid hsla(0, 0%, 0%, 0.07);
+			padding-top: 2em;
+		}
+
+	/*#events td,*/
+	#teaching td {
+		display: table-row;
+	}
+
+		#events table td:first-child {
+			text-align: left;
+			padding-right: 0.5em;
+		}
+
+	#events td:first-child,
+	#events td:nth-child(2),
+	#teaching td:last-child {
+		font-style: italic;
+	}
+}
+
+
+@media screen and (max-width: 480px) {
+	body {
+		padding: 2em 1em 0;
+	}
+
+	header h1 { 
+		margin: 0 0 1pt;
+	}
+
+	section:first-child {
+			margin-top: 6em; /*to align with nav when scrolled to top (page load default)*/
+			border-top: 1px solid hsla(0, 0%, 0%, 0.07);
+			padding-top: 1.25em;
+		}
+}
+
+
+
+
+
+

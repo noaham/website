@@ -1,0 +1,8 @@
+{% sorted_for post in site.posts sort_by:weight %}
+{% if post.pg == page.title %}
+<section id="{{ post.short_title }}">
+	<h1>{{ post.title }}</h1>
+	{{ post.content }}
+</section>
+{% endif %}
+{% endsorted_for %}
