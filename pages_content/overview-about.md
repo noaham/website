@@ -2,7 +2,6 @@
 layout: default
 title: About
 short_title: about
-date: 2014-01-01 12:00
 pg: Overview
 weight: 1
 ---

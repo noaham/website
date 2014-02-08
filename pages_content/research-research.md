@@ -1,7 +1,6 @@
 ---
-published: true
-tags: Research
-Title: Research
+layout: default
+title: Research
 short_title: research
 pg: Research
 weight: 1

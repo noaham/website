@@ -2,7 +2,6 @@
 layout: default
 title: Teaching
 short_title: teaching
-date: 2014-01-04 12:00
 pg: Overview
 weight: 4
 ---

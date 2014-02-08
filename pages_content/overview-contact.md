@@ -2,10 +2,8 @@
 layout: default
 title: Contact
 short_title: contact
-date: 2014-01-02 12:00
-published: true
 pg: Overview
-weight: 2
+weight: 10
 ---
 
 The best way to contact me is by email.

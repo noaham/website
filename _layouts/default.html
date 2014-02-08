@@ -46,7 +46,8 @@
 	<nav>
 		<ul>
 			{% sorted_for p in site.pages sorted_by:weight %}
-			{% if p.title == 'Overview' %}
+		        {% if p.main %}
+		        {% if p.title == 'Overview' %}
 			<li><a href="/~noahwhite">{{ p.title }}</a></li>
 			{% else %}
 			<li><a href="/~noahwhite/{{ p.title | downcase }}">{{ p.title }}</a></li>
@@ -61,6 +62,7 @@
 					{% endfor %}
 				</ul>
 			</li>
+			{% endif %}
 			{% endif %}
 			{% endsorted_for %}
 		</ul>		

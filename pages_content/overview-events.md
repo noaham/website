@@ -2,9 +2,6 @@
 layout: default
 title: Conferences and events
 short_title: events
-date: 2014-01-03 12:00
-published: true
-tags: Overview
 pg: Overview
 weight: 3
 ---
