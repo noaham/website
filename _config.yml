@@ -1,3 +1,4 @@
 name: Noah White
 markdown: kramdown
 pygments: true
+baseurl: /~noahwhite/
