@@ -45,7 +45,8 @@
 		
 	<nav>
 		<ul>
-			{% sorted_for p in site.pages sorted_by:weight %}
+            {% assign pages = site.pages | sort:"weight" %}
+			{% for p in pages %}
 			{% if p.title == 'Overview' %}
 			<li><a href="/~noahwhite">{{ p.title }}</a></li>
 			{% else %}
@@ -62,7 +63,7 @@
 				</ul>
 			</li>
 			{% endif %}
-			{% endsorted_for %}
+			{% endfor %}
 		</ul>
 		<!-- <ul> -->
 		<!-- 	<li><a href="https://github.com/noaham"><img src="/~noahwhite/images/github.png" alt="github" width=14 style="opacity:0.65;padding-right:6px"></img>github</a></li> -->
