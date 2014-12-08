@@ -50,7 +50,7 @@
 			{% if p.title == 'Overview' %}
 			<li><a href="/~noahwhite">{{ p.title }}</a></li>
 			{% else %}
-			<li><a href="/~noahwhite/{{ p.title | downcase }}">{{ p.title }}</a></li>
+			<li><a href="/~noahwhite/{{ p.short-title }}">{{ p.title }}</a></li>
 			{% endif %}
 			{% if p.title == page.title %}
 			<li>
