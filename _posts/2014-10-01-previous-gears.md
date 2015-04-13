@@ -7,6 +7,49 @@ pg: GEARS Seminar
 weight: 3
 ---
 
+### Edinburgh, 29 Jan 2015 ###
+
+When:     | 4pm Thursday 29 January 2015
+Where:    | ICMS, University of Edinburgh.
+Speakers: | Przemek Pobrotyn and Paul Slevin (details of the talks are below)
+
+**Przemek Pobrotyn**
+*The Golod-Shafarevich theorem*
+
+This talk will be based on the papers:
+
++ Golod and Shafarevich, 1964, [*On the class field tower.*][GS1964]
++ Regev and Regev, 2009, [*The Golod-Shafarevich counterexample without Hilbert series.*][RR2009] ([archive link][RR2009a])
+
+[GS1964]: http://www.ams.org/mathscinet-getitem?mr=161852
+[RR2009]: http://www.ams.org/mathscinet-getitem?mr=2581943
+[RR2009a]: http://arxiv.org/pdf/0901.1426v1.pdf
+
+*Abstract/reading instructions:* In their 1964 paper ‘On class field towers’ Shafarevich and his student Golod solved a long standing number theoretical problem, the class field tower problem. Their main tool was what is now referred to as the Golod-Shafarevich inequality. It can be formulated in many different categories and it relates certain growth function of an object in a category with certain data coming from the presentation of that object by generators and relators. Shortly afterwards Golod and Shafarevich used their newly created tool to solve Kurosh/Levitski Problem and subsequently gave the negative answer to the General Burnside Problem. In this talk I will explain the GS inequality and give an elementary proof of it, as presented in Regev’s ‘The Golod Shafarevich counter–example without Hilbert series’. I will also describe the Kurosh and Burnside problems and show how they can be settled to negative using the aforementioned inequality.
+
+**Paul Slevin**
+*Cyclic Homology and Duplicial Objects*
+
+This talk will be based on the paper:
+
++ Connes, 1985, [*Non-commutative differential geometry.*][Co1985] ([alt link][Co1985a])
++ Dwyer and Kan, 1985, [*Normalizing the cyclic modules of Connes*][DK1985]
++ Böhm, Dragos, 2008, [*(Co)cyclic (co)homology of bialgebroids: an approach via (co)monads.*][BD2008]
+
+[Co1985]: http://www.ams.org/mathscinet-getitem?mr=823176
+[Co1985a]: http://www.alainconnes.org/docs/noncommutative_differential_geometry.pdf
+[DK1985]: http://www.ams.org/mathscinet-getitem?mr=826872
+[BD2008]: http://www.ams.org/mathscinet-getitem?mr=2415479
+
+*Abstract/reading instructions:* Cyclic homology was invented by Alain Connes and was intended to generalise the de Rham (co)homology of manifolds. In my talk, I will give the definition of the cyclic (and periodic cyclic) homology of a mixed complex and look at subclasses of examples that give rise to cyclic homology theories, usually with the help of a left adjoint functor. In particular, I will define duplicial objects - these are simplicial objects with a so-called "extra degeneracy" that is compatible with the face and degeneracy maps. Miraculously, if we are inside an abelian category, these objects correspond to duchain complexes - that is, things which are simultaneously chain and cochain complexes with no compatibility conditions between the differentials whatsoever. This correspondence is known as the "Dwyer-Kan" correspondence and is closely related to the "Dold-Kan" correspondence. I will finish by discussing some recent research, specifically that concerned with the construction of duplicial objects (and hence new cyclic homology theories).
+
+Reading instructions:
+
+1. Familiarise yourself with simplicial objects, e.g. page 4 [here](http://stacks.math.columbia.edu/download/simplicial.pdf)
+
+2. See [Wikipedia](http://en.wikipedia.org/wiki/Hochschild_homology) for the definition of the Hochschild simplicial object. For the choice $ M = A $, define an extra degeneracy $s_{n+1}$ in each degree that inserts 1 in the first slot. Check that the duplicial relations (see 2.1 of Dwyer/Kan [also note the typo, $j-1$ should read $j-i$]) are satisfied when we add this extra degeneracy to the simplicial structure.
+
+
 ### Glasgow, Thursday 4 Dec December 2014 ###
 
 When:     | 4pm Thursday 4 December 2014
