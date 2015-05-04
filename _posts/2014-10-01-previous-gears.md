@@ -7,6 +7,50 @@ pg: GEARS Seminar
 weight: 3
 ---
 
+### Glasgow, 16 April 2015 ###
+
+When:     | 4pm Thursday 16 April 2015
+Where:    | School of Mathematics, University of Glasgow.
+Speakers: | Astrid Jahn and Cesar Lecoutre (details of the talks are below)
+
+**Astrid Jahn**
+*The finite dual of crossed products*
+
+This talk will be based on Astrid's [thesis](http://theses.gla.ac.uk/6158/) and the papers:
+
++ Hochschild, 1959, [*Algebraic Lie algebras and representative functions.*][H1959] *and* [*supplement*][H1960]
+
+[H1959]: http://www.ams.org/mathscinet-getitem?mr=125910
+[H1960]: http://www.ams.org/mathscinet-getitem?mr=125911
+
+
+*Abstract/reading instructions:* In finite dimensions, Hopf algebras have very nice duality properties: the vector space dual of any finite-dimensional Hopf algebra is also a Hopf algebra, and in this setting the canonical isomorphism between a vector space V and the dual V** is in fact an isomorphism of Hopf algebras. In infinite dimensions, this breaks down: the vector space dual of a Hopf algebra is no longer itself a Hopf algebra in general. Although there does exist a subspace of the vector space dual called the "finite dual" which is always a Hopf algebra and can be used as a replacement, this does not satisfy many of the properties known in the finite-dimensional case. Most obviously, finite duals need not preserve the size of a Hopf algebra: on the one hand there exist infinite-dimensional Hopf algebras whose finite duals are one-dimensional, on the other countably infinite-dimensional Hopf algebras whose finite dual is uncountable.
+
+My aim in this talk is to better understand the finite dual by understanding how the structure of the finite duals of Hopf algebras which are "built up" out of smaller (Hopf) algebras relates to the finite duals of their components. I look at two different types of such Hopf algebras: first, Hopf algebras which decompose as crossed products (a generalised Hopf algebra version of the semidirect product), second, Hopf algebras which are finite modules over some central Hopf subalgebra.
+
+Reading list:
+It would be helpful if people had a good understanding of the definition of a Hopf algebra before the talk - this can for instance be found in the book "Hopf algebras and their actions on rings" by Susan Montgomery - however, I will most likely be giving a brief overview of Hopf algebras at the start. Important definitions to know in order to follow the examples are those of group algebras, universal enveloping algebras of Lie algebras and coordinate rings of algebraic varieties, and it would be useful if people had at least a vague idea of the quantised version (quantum group) of the last two.
+
+Other relevant papers include Donkin's "On the Hopf algebra dual of an enveloping algebra" for a result regarding the finite dual of crossed products which I generalise, Blattner, Cohen and Montgomery's "Crossed products and inner actions of Hopf algebras" for the definition of a crossed product (this can also be found in Montgomery's book "Hopf algebras and their actions on rings") and Brown and Zhang's "Prime regular Hopf algebras of GK-dimension one" for the classification of prime affine Hopf algebras of Gelfand-Kirillov dimension one, which I will be making reference to in the talk.
+
+**Cesar Lecoutre**
+*About the Gel'fand-Kirillov Conjecture*
+
+This talk will be based on the paper:
+
++ Gel'fand and Kirillov, 1966, [*Sur les corps liés aux algèbres enveloppantes des algèbres de Lie.*][GK1966]
+
+[GK1966]: http://www.ams.org/mathscinet-getitem?mr=207918
+
+*Abstract/reading instructions:* Classifying the objects of a given nature is one of the goals of algebra. When classifying rings one often tries first to classify them up to birational equivalence, i.e. to classify their (skew)-field of fractions. We present the 1966 paper of Gel'fand and Kirillov, where the authors study this question for enveloping algebras of Lie algebras. They conjectured that an enveloping skewfield (the skewfield of fractions of an enveloping algebra of a (certain) Lie algebra) is isomorphic to a Weyl skewfield, a rather simple skewfield. Moreover they solve the isomorphism problem for Weyl skewfields. We will also survey the development around their conjecture as well as we will present its quantum and Poisson versions.
+
+Suggested topics for reading:
+-non commutative localisation
+-enveloping algebra of Lie algebra
+-good example: think of U(sl2) and invert everything. Can you simplify the relations? Can you find generators x,y,z such that xy-yx=1 and z is central?
+
+The first two topics will be briefly covered, they can be found in Noncommutative Noetherian Rings by McConnel and Robson.
+
 ### Edinburgh, 29 Jan 2015 ###
 
 When:     | 4pm Thursday 29 January 2015
