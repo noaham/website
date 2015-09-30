@@ -7,6 +7,24 @@ pg: GEARS Seminar
 weight: 3
 ---
 
+
+### Edinburgh, 14-18 September 2015 ###
+
+When:     | 3pm 15 September 2015
+Where:    | ICMS, Edinburgh.
+Speaker:  | Claire Amiot (details of the talks are below)
+
+
+**Claire Amiot (Institut Fourier, Grenoble)**
+*Cluster categories for algebras of global dimension 2 and cluster-tilting theory*
+
+This will be a short series of lectures on generalised cluster categories. This will be followed later in the week by a research seminar.
+
+
+*Abstract:* In this talk I will present basic results of cluster-tilting theory developed in [Iyama Yoshino 2008: Mutation in triangulated categories and Rigid CM modules] and [Buan-Iyama-Reiten-Scott 2009: Cluster structures for 2-Calabi-Yau categories]. I will explain how these results were a motivation for generalising the construction of cluster categories. I will first recall the motivation and definition of the acyclic cluster category due to Buan Marsh Reineke Reiten Todorov in 2006, and then focus to the construction of the generalised cluster category associated with algebras of global dimension 2 [Amiot 09]. Then I will explain how cluster-tilting theory can apply in classical tilting theory via graded mutation in a joint work with Oppermann.
+
+
+
 ### Glasgow, 16 April 2015 ###
 
 When:     | 4pm Thursday 16 April 2015

@@ -7,5 +7,4 @@ pg: GEARS Seminar
 weight: 2
 ---
 
-### TBA ###
-
+No upcoming meetings planned.
