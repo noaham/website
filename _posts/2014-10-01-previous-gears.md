@@ -8,6 +8,45 @@ weight: 3
 ---
 
 
+### Edinburgh, 5 November 2015 ###
+
+When:     | 3:45pm Thursday 5 November 2015
+Where:    | ICMS, Edinburgh.
+Speakers: | Bernard Bainson and Salvatore Dolce (details of the talks are below)
+
+**Bernard Bainson**
+*Ordered Groupoids and Left Cancellative Categories*
+
+This talk will be based on the papers:
+
++ Lawson, 2004, [*Ordered groupoids and left cancellative categories*][La2004]
++ Lawson, 1998, [*Inverse semigroups. The theory of partial symmetry*][La1998]
++ Leech, 1987, [*Constructing inverse semigroups from small categories*][Le1987]
++ Loganathan, 1981, [*Cohomology of inverse semigroups*][Lo1981]
+
+[La2004]: http://www.ams.org/mathscinet-getitem?mr=2050902
+[La1998]: http://www.ams.org/mathscinet-getitem?mr=1694900
+[Le1987]: http://www.ams.org/mathscinet-getitem?mr=902733
+[Lo1981]: http://www.ams.org/mathscinet-getitem?mr=623815
+
+
+*Abstract/reading instructions:* Leech (1987) in his work presented the idea of constructing an inverse semigroup from small categories. Loganathan describes the cohomology of inverse semigroups via an associated category which turns out to have some advantages over the traditional approach in homological theory. In this presentation, we shall consider the correspondence between ordered groupoids and left cancellative categories due to Lawson and state some applications. 
+
+**Salvatore Dolce**
+*Vinberg Monoid and Reductive Semigroups*
+
+This talk will be based on the papers:
+
++ Vinberg, 1995, [*On reductive algebraic semigroups*][V1995]
++ Rittatore, 2002, [*Very flat reductive monoids*][R2002]
+
+[V1995]: http://www.ams.org/mathscinet-getitem?mr=1364458
+[R2002]: http://www.ams.org/mathscinet-getitem?mr=1935829
+
+*Abstract/reading instructions:* The Vinberg Monoid has its origin in the theory of algebraic semigroups and it represents a minimal element in a special family of monoids. I will introduce this object as Vinberg did in his original paper "On reductive semigroups" in which he worked in the setting of complex algebraic groups. Then I will discuss how to generalise the theory over any algebraically closed field using a more geometric approach via spherical varieties. Finally, time permitting, I will tell you a nice interpretation of the Vinberg Monoid as a certain moduli space of principal bundles which could have an analogous in an infinite dimensional setting. 
+
+
+
 ### Edinburgh, 14-18 September 2015 ###
 
 When:     | 3pm 15 September 2015
