@@ -8,33 +8,35 @@ weight: 2
 ---
 
 
-### Glasgow, 15 January 2016 ###
+### Glasgow, 30 March 2016 ###
 
-When:     | 3:45pm Friday 15 January 2016
-Where:    | School of Mathematics, University of Glasgow.
-Speakers: | Tomasz Przezdziecki and Simon Crawford (details of the talks are below)
+When:     | 4pm Wednesday 30 March 2016
+Where:    | Lecture theatre 507, Boyd Orr building, University of Glasgow.
+Speakers: | Angela Tabiri (Glasgow), and  Gwendolyn Barnes (Heriot-Watt) (details of the talks are below)
 
-**Tomasz Przezdziecki**
-*KLR algebras and geometric representation theory*
+*Please note the unusual location. The Boyd Orr Building is next to the Mathematics department*
 
-This talk will be based on the paper:
-
-+ Varagnolo and Vasserot 2011, [*Canonical bases and KLR-algebras*][VV2011]
-
-[VV2011]: http://www.ams.org/mathscinet-getitem?mr=2837011
-
-
-*Abstract/reading instructions:* The main goal of the talk is to explain the geometric construction of KLR (quiver Hecke) algebras due to Vasserot & Varagnolo. These algebras were introduced by Khovanov & Lauda and Rouquier by combinatorial and algebraic means. Research on KLR algebras has been motivated by their role in the categorification of quantum groups and their connection to affine and cyclotomic Hecke algebras. We will briefly review classical geometric representation theory, recalling the Steinberg variety and the construction of the group algebra of a Weyl group in its homology. We will then sketch how to modify this construction to obtain a KLR algebra. The interesting new features include the use of quiver flag varieties and equivariant homology. 
-
-**Simon Crawford**
-*Deformations of Kleinian singularities and singularity categories*
+**Angela Tabiri**
+*Quantum homogeneous spaces*
 
 This talk will be based on the papers:
 
-+ Vinberg, 1995, [*On reductive algebraic semigroups*][V1995]
-+ Rittatore, 2002, [*Very flat reductive monoids*][R2002]
++ Müller and Schneider 1999, [*Quantum homogeneous spaces with faithfully flat module structures*][MS1999]
++ Krähmer 2012, [*On the Hochschild (co)homology of quantum homogeneous spaces.*][K2012]
 
-[CBH1998]: http://www.ams.org/mathscinet-getitem?mr=1620538
-[H1993]: http://www.ams.org/mathscinet-getitem?mr=1247356
+[MS1999]: http://www.ams.org/mathscinet-getitem?mr=1710737
+[K2012]: http://www.ams.org/mathscinet-getitem?mr=2931396
 
-*Abstract/reading instructions:* In 1998, Crawley-Boevey and Holland introduced a family of deformations of the coordinate rings of Kleinian singularities, which may be viewed as a generalisation of earlier work by Hodges. They also introduced the deformed preprojective algebra, and proved that their existed Morita equivalences and, under suitable hypotheses, isomorphisms between these two families of deformed algebras. This allowed them to deduce a number of nice ring theoretic and homological properties. I will give an overview of their results, with an emphasis on examples, and will also try to explain how their results have motivated my research. 
+*Abstract/reading instructions:* Quantum homogeneous spaces are Hopf algebras with additional properties. In this seminar, I will define and give an example of a quantum homogeneous space. Then I will end with some examples of planar curves which are quantum homogeneous spaces.
+
+
+**Gwendolyn Barnes**
+*The Quantum Group Revolution*
+
+This talk will be based on the paper:
+
++ Aschieri, 2012, [*Twisting all the way: from algebras to morphisms and connections*][A2012]
+
+[A2012]: http://arxiv.org/pdf/1210.1143v1.pdf
+
+*Abstract/reading instructions:* The theory of connections on fiber bundles underlies our modern understanding of classical field theories such as gravity and Yang-Mills theory. Recent observations suggest that the corresponding quantum theories are noncommutative and nonassociative. An abstract notion of geometry is required in order to describe these quantum field theories in a manner that is compatible with the classical descriptions. In work together with Alexander Schenkel and Richard J. Szabo we have appealed to the tools of category theory and topos theory to better understand the mathematical structures underlying noncommutative and nonassociative deformations of spacetime geometry [arXiv:1601.07353, arXiv:1507.02792, arXiv:1409.6331].

@@ -7,6 +7,80 @@ pg: GEARS Seminar
 weight: 3
 ---
 
+### Edinburgh, 15 February 2016 ###
+
+When:     | 5:15pm Monday 15 February 2016
+Where:    | Room LG.11, David Hume Tower , University of Edinburgh.
+Speakers: | Getachew Alemu Demessie (Heriot-Watt), and Tim Weelinck (Edinburgh) (details of the talks are below)
+
+*Please note the unusual location. The Boyd Orr Building is next to the Mathematics department*
+
+**Getachew Alemu Demessie**
+*Smooth 2-groups (The string 2-group model by Schommer-Pries)*
+
+This talk will be based on the papers:
+
++ Schommer-Pries 2011, [*Central extensions of smooth 2-groups and a finite-dimensional string 2-group.*][SP2011]
++ Baez and Lauda 2004, [*Higher-dimensional algebra V: 2-groups*][BL2004]
++ Baez and Crans 2004, [*Higher-dimensional algebra VI: Lie 2-algebras*][BC2004]
+
+[SP2011]: http://www.ams.org/mathscinet-getitem?mr=2800361
+[BL2004]: http://www.ams.org/mathscinet-getitem?mr=2068521
+[BC2004]: http://www.ams.org/mathscinet-getitem?mr=2068522
+
+*Abstract/reading instructions:* In this talk I will discuss categorical groups by using the concept of internalization. In particular, I will explain the construction of the string 2-group model by Schommer-Pries, which is a 2-group object in a bicategory. Finally, I will mention how this string 2-group can be Lie differentiated to the known Lie 2-algebra. 
+
+**Tim Weelinck**
+*The Quantum Group Revolution*
+
+This talk will be based on the paper:
+
++ Drinfeld, 1987, [*Quantum groups (ICM address)*][D1987] ([alternate link][Dalt])
+
+[D1987]: http://www.ams.org/mathscinet-getitem?mr=934283
+[Dalt]: http://www.mathunion.org/ICM/ICM1986.1/Main/icm1986.1.0798.0820.ocr.pdf
+
+*Abstract/reading instructions:* We tell the story of Drinfeld's 1986 ICM address, undoubtedly one of the milestones in mathematics with a whopping 676 references on MathSciNet. In his address Drinfeld introduces objects he calls `Quantum Groups', certain deformations of the universal enveloping algebra of a Lie algebra, that carry canonical solutions to the Yang-Baxter equation. 
+
+We will begin by telling the history of the mathematical (and physical) theories that Drinfeld intertwined to create his quantum groups. In passing we will discuss the relevance of the Yang-Baxter equation in physics (and math). Thereafter, we will take our time to discuss quantum groups, as introduced by Drinfeld in his paper e.g. introducing Lie bialgebras, Poisson-Lie groups, quantizations of these, etc. 
+
+Nowadays quantum groups are connected to a wide variety of mathematical topics: conformal field theory, modular representations of Lie algebras, algebraic number theory and even low-dimensional topology. If time permits we will touch on these connections. Alternatively we can have a light-hearted discussion on why these objects are called `quantum groups'.
+
+
+
+### Glasgow, 15 January 2016 ###
+
+When:     | 3:45pm Friday 15 January 2016
+Where:    | Room 513, Boyd Orr Building , University of Glasgow.
+Speakers: | Tomasz Przezdziecki and Simon Crawford (details of the talks are below)
+
+*Please note the unusual location. The Boyd Orr Building is next to the Mathematics department*
+
+**Tomasz Przezdziecki**
+*KLR algebras and geometric representation theory*
+
+This talk will be based on the paper:
+
++ Varagnolo and Vasserot 2011, [*Canonical bases and KLR-algebras*][VV2011]
+
+[VV2011]: http://www.ams.org/mathscinet-getitem?mr=2837011
+
+
+*Abstract/reading instructions:* The main goal of the talk is to explain the geometric construction of KLR (quiver Hecke) algebras due to Vasserot & Varagnolo. These algebras were introduced by Khovanov & Lauda and Rouquier by combinatorial and algebraic means. Research on KLR algebras has been motivated by their role in the categorification of quantum groups and their connection to affine and cyclotomic Hecke algebras. We will briefly review classical geometric representation theory, recalling the Steinberg variety and the construction of the group algebra of a Weyl group in its homology. We will then sketch how to modify this construction to obtain a KLR algebra. The interesting new features include the use of quiver flag varieties and equivariant homology. 
+
+**Simon Crawford**
+*Deformations of Kleinian singularities and singularity categories*
+
+This talk will be based on the papers:
+
++ Crawley-Boevey and Holland, 1998, [*Noncommutative deformations of Kleinian singularities*][CBH1998]
++ Hodges, 1993, [*Noncommutative deformations of type-A Kleinian singularities*][H1993]
+
+[CBH1998]: http://www.ams.org/mathscinet-getitem?mr=1620538
+[H1993]: http://www.ams.org/mathscinet-getitem?mr=1247356
+
+*Abstract/reading instructions:* In 1998, Crawley-Boevey and Holland introduced a family of deformations of the coordinate rings of Kleinian singularities, which may be viewed as a generalisation of earlier work by Hodges. They also introduced the deformed preprojective algebra, and proved that their existed Morita equivalences and, under suitable hypotheses, isomorphisms between these two families of deformed algebras. This allowed them to deduce a number of nice ring theoretic and homological properties. I will give an overview of their results, with an emphasis on examples, and will also try to explain how their results have motivated my research. 
+
 
 ### Edinburgh, 5 November 2015 ###
 
