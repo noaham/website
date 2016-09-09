@@ -15,6 +15,6 @@ A particularly beautiful example are the *Littlewood-Richardson coefficients*. O
 
 More specifically I am interested in the relationship between crystal bases, the Gaudin model and the algebraic Bethe ansatz for $\mathfrak{gl}_n$. 
 
-I am also working on a project with [David Jordan][] on describing the center of the quantum group $U\_q(\mathfrak{gl}_n)$ combinatorially.
+I am also working on a project with [David Jordan][] on describing the center of the reflection equation algebra - and the quantum group $U\_q(\mathfrak{gl}_n)$ - combinatorially.
 
 [David Jordan]: http://www.maths.ed.ac.uk/~djordan

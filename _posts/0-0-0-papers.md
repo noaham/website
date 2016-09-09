@@ -14,4 +14,4 @@ Calogero-Moser cells in type A and the RSK correspondence (jt with A. Brochier a
 
 Quantum Cayley-Hamilton identities for the reflection equation algebra (jt with D. Jordon). In preparation.
 
-[monodromy]: /~noahwhite/papers/monodromy_of_bethe_vectors.pdf
+[monodromy]: /~noah/papers/monodromy_of_bethe_vectors.pdf

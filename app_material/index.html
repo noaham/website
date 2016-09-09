@@ -4,7 +4,7 @@
 <head>
 	<meta http-equiv="Content-Type" name="GEARS Seminar" content="text/html; charset=utf-8"/>
 	<!-- The 'name' attribute is what will be displayed under the title in search results (i.e. the two black lines of text in Google search results). -->
-	<title>{{ page.title }}</title>
+	<title>Application materials</title>
 	<link rel="stylesheet" type="text/css" href="/~noah/css/normalize.css" media="screen">	
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="/~noah/css/style.css">
@@ -39,26 +39,6 @@
 <body class="clearfix">
   
 	<nav>
-		<ul>
-            {% assign pages = site.pages | sort:"weight" %}
-			{% for p in pages %}
-			{% if p.title == 'GEARS Seminar' %}
-			<li><a href="/~noah/gears">{{ p.title }}</a></li>
-			{% endif %}
-			{% if p.title == page.title %}
-			<li>
-				<ul>
-                    {% assign postings = site.posts | sort:"weight" %}
-					{% for post in postings %}
-					{% if post.pg == page.title %}
-					<li><a href="#{{ post.short_title }}">{{ post.title }}</a></li>
-					{% endif %}
-					{% endfor %}
-				</ul>
-			</li>
-			{% endif %}
-			{% endfor %}
-		</ul>
 		<!-- <ul> -->
 		<!-- 	<li><a href="https://github.com/noaham"><img src="/~noah/images/github.png" alt="github" width=14 style="opacity:0.65;padding-right:6px"></img>github</a></li> -->
 		<!-- 	<li><a href="http://mathoverflow.net/users/48296/noah-white"><img src="/~noah/images/mo.png" alt="mathoverflow" width=14 style="opacity:0.65;padding-right:6px"></img>mathoverflow</a></li> -->
@@ -66,7 +46,15 @@
 	</nav>
     
 	<div>
-		{{ content }}
+      <br/>
+      <br/>
+	  My application material
+      <br/>
+      <a href="cv-nw.pdf" rel="nofollow">CV</a>
+      <br/>
+      <a href="rs-nw.pdf" rel="nofollow">Research statement</a>
+      <br/>
+      <a href="ts-nw.pdf" rel="nofollow">Teaching statement</a>
 	</div><!-- main posts div -->
 </body>
 

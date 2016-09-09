@@ -1,16 +1,17 @@
 ---
 layout: default
-title: Teaching
+title: Teaching experience
 short_title: teaching
 date: 2014-01-04 12:00
-tags: Overview
-pg: Overview
+tags: Teaching
+pg: Teaching
 weight: 500
 ---
 
-Currently (Fall 2016) I am an instructor for
+Currently (Fall 2016) I am the instructor for
 
 * [Math 3B][]
+
 
 My upcoming teaching duties are
 

@@ -11,4 +11,4 @@ The GEARS Seminar is funded by the [Institute fo Academic Development][] at the 
 
 [Institute fo Academic Development]: http://www.ed.ac.uk/schools-departments/institute-academic-development
 
-[Noah White]: http://www.maths.ed.ac.uk/~noahwhite/
+[Noah White]: http://www.math.ucla.edu/~noah/

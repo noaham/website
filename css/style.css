@@ -87,9 +87,9 @@ a {
 	}
 
 section h1 {
-	font-size: 28pt;
-	line-height: 60%;
-	/*color: hsla(202, 100%, 44%, 1);*/
+	font-size: 24pt;
+	line-height: 75%;
+	color: hsla(202, 100%, 44%, 1);
 }
 
 section p {

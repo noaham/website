@@ -13,4 +13,4 @@ The **G**lasgow **E**dinburgh **A**lgebra **R**esearch **S**tudent seminar is ai
 The seminar is currently organised by [Simon Crawford][] and [Noah White][]. Get in touch if you have any questions.
 
 [Simon Crawford]: http://www.maths.ed.ac.uk/~s1431975/
-[Noah White]: http://www.maths.ed.ac.uk/~noahwhite
+[Noah White]: http://www.math.ucla.edu/~noah

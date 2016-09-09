@@ -11,6 +11,10 @@ weight: 300
 
 Here is a (incomplete) list of the talks I have given.
 
+Jun | 2016 | [K&ouml;ln algebra seminar][Kolnalg], 
+    |      | *The cactus group and the Gaudin model.*
+Apr | 2016 | [Max Plank Institute, Oberseminar][MPIOber], 
+    |      | *The cactus group and RSK.*
 Mar | 2016 | [IMJ Paris Diderot Groupes, Représentations et Géométrie seminar][IMJParis],
     |      | *Monodromy of the Gaudin system in type A.*
 Aug | 2015 | [Melbourne algebra/geometry/topology seminar][Melbagt],
@@ -33,12 +37,15 @@ Sep | 2014 | [Geometry club, Edinburgh][GeoClub],
 Sep | 2013 | [Geometry club, Edinburgh][GeoClub],
     |      | *Invariants of knots from representation theory.*
 
+
+[Kolnalg]: http://www.mi.uni-koeln.de/algebra/seminars/
+[MPIOber]: https://www.mpim-bonn.mpg.de/node/158
 [IMJParis]: http://www.imj-prg.fr/spip.php?article154
 [Melbagt]: http://www.ms.unimelb.edu.au/research/seminars.php
 [UQpm]: https://www.smp.uq.edu.au/pure-maths-seminars
 [Sydalg]: http://www.maths.usyd.edu.au/u/AlgebraSeminar/
 [jtPGcol]: http://www.maths.ed.ac.uk/~xzhang/pgcolloquium.html
 [QMULalg]: http://www.maths.qmul.ac.uk/seminar-series/algebra-seminar
-[GEARS]: http://www.maths.ed.ac.uk/~noahwhite/gears/
+[GEARS]: http://www.math.ucla.edu/~noah/gears/
 [GeoClub]: http://hodge.maths.ed.ac.uk/tiki/Geometry+Club
 [ARTIN]: http://hodge.maths.ed.ac.uk/tiki/ARTIN
