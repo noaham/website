@@ -1,0 +1,186 @@
+<!DOCTYPE HTML>
+<html>
+<html lang="eng">
+<head>
+	<meta http-equiv="Content-Type" name="Noah White - University of California, Los Angeles." content="text/html; charset=utf-8"/>
+	<!-- The 'name' attribute is what will be displayed under the title in search results (i.e. the two black lines of text in Google search results). -->
+	<title>Noah White - Contact</title>
+	<link rel="stylesheet" type="text/css" href="/~noah/css/normalize.css" media="screen">	
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="/~noah/css/style.css">
+
+	<script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+
+	<!-- mathjax config similar to math.stackexchange -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({
+	  jax: ["input/TeX", "output/HTML-CSS"],
+	  tex2jax: {
+	    inlineMath: [ ['$', '$'] ],
+	    displayMath: [ ['$$', '$$']],
+	    processEscapes: true,
+	    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+	  },
+	  messageStyle: "none",
+	  "HTML-CSS": { 
+	  scale: 90,
+      preferredFont: "TeX", 
+      availableFonts: ["STIX","TeX"], 
+      styles: {".MathJax": {color: "#4D4D4D"}} 
+      }
+	});
+	</script>
+	<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+
+	<!-- allows for responsive design on mobile devices -->
+	<meta name="viewport" content="width=device-width, initial-scale =1.0, user-scalable = no">
+</head>
+
+<body class="clearfix">
+		<header>
+			<img src="/~noah/images/noah2_retina.jpg" alt="Noah White portrait">
+			<h1>Noah White</h1>
+			<p>University of Califonia,<br>Los Angeles</p>
+		</header>
+		
+	<nav>
+		<ul>
+            
+			
+			
+			<li><a href="/~noah/">Overview</a></li>
+			
+			
+			
+			
+			<li><a href="/~noah/research">Research</a></li>
+			
+			
+			
+			
+			<li><a href="/~noah/teaching">Teaching</a></li>
+			
+			
+			
+			
+			<li><a href="/~noah/math3b-f16">Math 3B</a></li>
+			
+			
+			
+		</ul>
+		<!-- <ul> -->
+		<!-- 	<li><a href="https://github.com/noaham"><img src="/~noah/images/github.png" alt="github" width=14 style="opacity:0.65;padding-right:6px"></img>github</a></li> -->
+		<!-- 	<li><a href="http://mathoverflow.net/users/48296/noah-white"><img src="/~noah/images/mo.png" alt="mathoverflow" width=14 style="opacity:0.65;padding-right:6px"></img>mathoverflow</a></li> -->
+		<!-- </ul> -->		
+	</nav>
+
+
+	<div>
+		<p>The best way to contact me is by email.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>e:</td>
+      <td><a href="mailto:noah@math.ucla.edu">noah@math.ucla.edu</a></td>
+    </tr>
+    <tr>
+      <td>p:</td>
+      <td>+1 (310) 825-4701</td>
+    </tr>
+    <tr>
+      <td>a:</td>
+      <td>Department of Mathematics</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>520 Portola Plaza</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Mathematical Sciences Building</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Los Angeles, CA 90025</td>
+    </tr>
+  </tbody>
+</table>
+
+
+	</div><!-- main posts div -->
+</body>
+
+<!--
+jQuery for hiding the header & fixing the nav once scrolled a certain amount:
+http://stackoverflow.com/questions/13250325/show-hide-div-on-scroll 
+
+JavaScript for enabling/disabling this at breakpoints:
+http://stackoverflow.com/questions/21113413/responding-to-window-resize-with-javascript-jquery/
+-->
+<script>
+$(document).ready(function(){
+    var $window = $(window);
+
+    $window.on('resize', function () {
+        windowsize = $window.width();
+
+        if (windowsize > 1119) 
+        {
+            $window.scroll(function() {
+                if ($(this).scrollTop()>119)
+                {
+                    $('header').fadeOut();
+                    $('nav').css({position: 'fixed', top: '0px'});
+                }
+                else
+                {
+                    $('header').fadeIn();
+                    $('nav').css({position: 'absolute', top: 'auto'});
+                }
+            }).scroll();
+        }
+        else 
+        {
+            $('nav').css({position: 'static', top: '0px'});
+            $('header').fadeIn();
+            $window.off('scroll');
+        }
+    }).resize();
+
+});
+</script>
+
+<!-- javascript for smooth scrolling to page anchors http://css-tricks.com/snippets/jquery/smooth-scrolling/ -->
+<script>
+	$(function() {
+	  $('a[href*=#]:not([href=#])').click(function() {
+	    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+	      var target = $(this.hash);
+	      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+	      if (target.length) {
+	        $('html,body').animate({
+	          scrollTop: target.offset().top
+	        }, 250); //speed in milliseconds
+	        return false;
+	      }
+	    }
+	  });
+	});
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-47813713-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</html>

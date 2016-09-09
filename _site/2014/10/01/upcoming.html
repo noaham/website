@@ -1,0 +1,198 @@
+<!DOCTYPE HTML>
+<html>
+<html lang="eng">
+<head>
+	<meta http-equiv="Content-Type" name="Noah White - University of California, Los Angeles." content="text/html; charset=utf-8"/>
+	<!-- The 'name' attribute is what will be displayed under the title in search results (i.e. the two black lines of text in Google search results). -->
+	<title>Noah White - Upcoming meetings</title>
+	<link rel="stylesheet" type="text/css" href="/~noah/css/normalize.css" media="screen">	
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="/~noah/css/style.css">
+
+	<script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+
+	<!-- mathjax config similar to math.stackexchange -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({
+	  jax: ["input/TeX", "output/HTML-CSS"],
+	  tex2jax: {
+	    inlineMath: [ ['$', '$'] ],
+	    displayMath: [ ['$$', '$$']],
+	    processEscapes: true,
+	    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+	  },
+	  messageStyle: "none",
+	  "HTML-CSS": { 
+	  scale: 90,
+      preferredFont: "TeX", 
+      availableFonts: ["STIX","TeX"], 
+      styles: {".MathJax": {color: "#4D4D4D"}} 
+      }
+	});
+	</script>
+	<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+
+	<!-- allows for responsive design on mobile devices -->
+	<meta name="viewport" content="width=device-width, initial-scale =1.0, user-scalable = no">
+</head>
+
+<body class="clearfix">
+		<header>
+			<img src="/~noah/images/noah2_retina.jpg" alt="Noah White portrait">
+			<h1>Noah White</h1>
+			<p>University of Califonia,<br>Los Angeles</p>
+		</header>
+		
+	<nav>
+		<ul>
+            
+			
+			
+			<li><a href="/~noah/">Overview</a></li>
+			
+			
+			
+			
+			<li><a href="/~noah/research">Research</a></li>
+			
+			
+			
+			
+			<li><a href="/~noah/teaching">Teaching</a></li>
+			
+			
+			
+			
+			<li><a href="/~noah/math3b-f16">Math 3B</a></li>
+			
+			
+			
+		</ul>
+		<!-- <ul> -->
+		<!-- 	<li><a href="https://github.com/noaham"><img src="/~noah/images/github.png" alt="github" width=14 style="opacity:0.65;padding-right:6px"></img>github</a></li> -->
+		<!-- 	<li><a href="http://mathoverflow.net/users/48296/noah-white"><img src="/~noah/images/mo.png" alt="mathoverflow" width=14 style="opacity:0.65;padding-right:6px"></img>mathoverflow</a></li> -->
+		<!-- </ul> -->		
+	</nav>
+
+
+	<div>
+		<h3 id="glasgow-30-march-2016">Glasgow, 30 March 2016</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>When:</td>
+      <td>4pm Wednesday 30 March 2016</td>
+    </tr>
+    <tr>
+      <td>Where:</td>
+      <td>Lecture theatre 507, Boyd Orr building, University of Glasgow.</td>
+    </tr>
+    <tr>
+      <td>Speakers:</td>
+      <td>Angela Tabiri (Glasgow), and  Gwendolyn Barnes (Heriot-Watt) (details of the talks are below)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Please note the unusual location. The Boyd Orr Building is next to the Mathematics department</em></p>
+
+<p><strong>Angela Tabiri</strong>
+<em>Quantum homogeneous spaces</em></p>
+
+<p>This talk will be based on the papers:</p>
+
+<ul>
+  <li>Müller and Schneider 1999, <a href="http://www.ams.org/mathscinet-getitem?mr=1710737"><em>Quantum homogeneous spaces with faithfully flat module structures</em></a></li>
+  <li>Krähmer 2012, <a href="http://www.ams.org/mathscinet-getitem?mr=2931396"><em>On the Hochschild (co)homology of quantum homogeneous spaces.</em></a></li>
+</ul>
+
+<p><em>Abstract/reading instructions:</em> Quantum homogeneous spaces are Hopf algebras with additional properties. In this seminar, I will define and give an example of a quantum homogeneous space. Then I will end with some examples of planar curves which are quantum homogeneous spaces.</p>
+
+<p><strong>Gwendolyn Barnes</strong>
+<em>The Quantum Group Revolution</em></p>
+
+<p>This talk will be based on the paper:</p>
+
+<ul>
+  <li>Aschieri, 2012, <a href="http://arxiv.org/pdf/1210.1143v1.pdf"><em>Twisting all the way: from algebras to morphisms and connections</em></a></li>
+</ul>
+
+<p><em>Abstract/reading instructions:</em> The theory of connections on fiber bundles underlies our modern understanding of classical field theories such as gravity and Yang-Mills theory. Recent observations suggest that the corresponding quantum theories are noncommutative and nonassociative. An abstract notion of geometry is required in order to describe these quantum field theories in a manner that is compatible with the classical descriptions. In work together with Alexander Schenkel and Richard J. Szabo we have appealed to the tools of category theory and topos theory to better understand the mathematical structures underlying noncommutative and nonassociative deformations of spacetime geometry [arXiv:1601.07353, arXiv:1507.02792, arXiv:1409.6331].</p>
+
+	</div><!-- main posts div -->
+</body>
+
+<!--
+jQuery for hiding the header & fixing the nav once scrolled a certain amount:
+http://stackoverflow.com/questions/13250325/show-hide-div-on-scroll 
+
+JavaScript for enabling/disabling this at breakpoints:
+http://stackoverflow.com/questions/21113413/responding-to-window-resize-with-javascript-jquery/
+-->
+<script>
+$(document).ready(function(){
+    var $window = $(window);
+
+    $window.on('resize', function () {
+        windowsize = $window.width();
+
+        if (windowsize > 1119) 
+        {
+            $window.scroll(function() {
+                if ($(this).scrollTop()>119)
+                {
+                    $('header').fadeOut();
+                    $('nav').css({position: 'fixed', top: '0px'});
+                }
+                else
+                {
+                    $('header').fadeIn();
+                    $('nav').css({position: 'absolute', top: 'auto'});
+                }
+            }).scroll();
+        }
+        else 
+        {
+            $('nav').css({position: 'static', top: '0px'});
+            $('header').fadeIn();
+            $window.off('scroll');
+        }
+    }).resize();
+
+});
+</script>
+
+<!-- javascript for smooth scrolling to page anchors http://css-tricks.com/snippets/jquery/smooth-scrolling/ -->
+<script>
+	$(function() {
+	  $('a[href*=#]:not([href=#])').click(function() {
+	    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+	      var target = $(this.hash);
+	      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+	      if (target.length) {
+	        $('html,body').animate({
+	          scrollTop: target.offset().top
+	        }, 250); //speed in milliseconds
+	        return false;
+	      }
+	    }
+	  });
+	});
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-47813713-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</html>
