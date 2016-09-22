@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Instructors and office hours
+title: Instructor, TAs and office hours
 short_title: Instructors and office hours
 date: 2016-09-01 12:00
 tags: ['Math 3B']
@@ -8,7 +8,13 @@ pg: Math 3B
 weight: 100
 ---
 
-* __Professor:__ Noah White (<a href="mailto:noah@math.ucla.edu">noah@math.ucla.edu</a>)
+* __Instructor:__ Noah White (<a href="mailto:noah@math.ucla.edu">noah@math.ucla.edu</a>)
+* _Office hours:_ MS 6304, Monday 3:30-5pm, Thursday 9-10:30am.
 * __TA:__ Kyung Ha (<a href="mailto:kyungha@math.ucla.edu">kyungha@math.ucla.edu</a>)
+* _Office hours:_ MS TBA, Tuesday 4-5pm
 * __TA:__ Robbie Housden (<a href="mailto:rhousden@math.ucla.edu">rhousden@math.ucla.edu</a>)
+* _Office hours:_ MS 3915B, Tuesday 3-4pm
 * __TA:__ Dustan Levenstein (<a href="mailto:dustanl@math.ucla.edu">dustanl@math.ucla.edu</a>)
+* _Office hours:_ MS 3965, Thursday 3-4pm
+
+Please check back here as office hours and locations may change.

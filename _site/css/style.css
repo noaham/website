@@ -263,6 +263,23 @@ td {
 
 
 
+table.schedule td,th {
+    border: 1px solid #C0C0C0;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
 
+span.hw {
+    color: #128ED8;
+}
 
+span.exam {
+    color: #DA00E6;
+}
 
+td.hol {
+    background-color: #FFA0A0;
+    text-align: center;
+}
