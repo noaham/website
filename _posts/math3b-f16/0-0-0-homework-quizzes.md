@@ -17,4 +17,4 @@ In weeks where no homework is collected a short quiz will be conducted in the di
 [Problem set 1][ps1]
 
 
-[ps1]: ps/ps1.pdf 
+[ps1]: https://ccle.ucla.edu/course/view/16F-MATH3B-2?section=1
