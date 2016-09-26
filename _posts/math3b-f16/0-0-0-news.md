@@ -10,5 +10,8 @@ weight: 800
 
 Regular updates will be posted here to notify you of upcoming homework, exams, quizzes or anything else!
 
+09.25.2016 | --- | Quiz 1 will be happening this week in discussion sections. Have a look at the graphing problems on the problem set.
+           | --- | There was a mistake in problem set 1, q8, which has been rectified.
+           | --- | Remember to sign up for Piazza!
 09.22.2016 | --- | Discussion sections 2B, 2D, and 2F will be running today!
 09.21.2016 | --- | Welcome to Math 3B: Calculus for Life Sciences Students! I look forward to meeting you all this Friday.
