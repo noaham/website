@@ -10,4 +10,6 @@ weight: 350
 
 Here you will find links to the lecture notes and slides as they become available. They represent more of less what we covered in lectures but not exactly, depending on how many questions I got and if we ran out of time.
 
-[Lecture 1](slides/lect1.pdf)
+- [Lecture 1](slides/lect1.pdf)
+- [Lecture 2](slides/lect2.pdf)
+- [Lecture 3](slides/lect3.pdf)
