@@ -11,7 +11,7 @@ weight: 100
 
 
 | __Instructor:__ | Noah White (<a href="mailto:noah@math.ucla.edu">noah@math.ucla.edu</a>)              |
-| _Office hours:_ | MS 6304, Monday 3:30-5pm, Thursday 9-10:30am.                                        |
+| _Office hours:_ | MS 6304, Monday 3:-4:30pm, Thursday 9-10:30am.                                        |
 |                 |                                                                                      |
 | __TA:__         | Kyung Ha (<a href="mailto:kyungha@math.ucla.edu">kyungha@math.ucla.edu</a>)          |
 | _Office hours:_ | MS 6943, Wednesday 4-5pm                                                                |
