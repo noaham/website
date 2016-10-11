@@ -10,6 +10,7 @@ weight: 800
 
 Regular updates will be posted here to notify you of upcoming homework, exams, quizzes or anything else!
 
+10.10.2016 | --- | Quiz 2 will be happening this week. Look at the first three problems on Problem Set 3.
 09.25.2016 | --- | Quiz 1 will be happening this week in discussion sections. Have a look at the graphing problems on the problem set.
            | --- | There was a mistake in problem set 1, q8, which has been rectified.
            | --- | Remember to sign up for Piazza!
