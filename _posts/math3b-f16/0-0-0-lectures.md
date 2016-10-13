@@ -18,3 +18,4 @@ Here you will find links to the lecture notes and slides as they become availabl
 - [Lecture 6](slides/lect6.pdf)
 - [Lecture 7](slides/lect7.pdf)
 - [Lecture 8](slides/lect8.pdf)
+- [Lecture 9](slides/lect9.pdf)
