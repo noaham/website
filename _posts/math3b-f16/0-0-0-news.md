@@ -10,7 +10,8 @@ weight: 800
 
 Regular updates will be posted here to notify you of upcoming homework, exams, quizzes or anything else!
 
-
+10.21.2016 | --- | Problem set 5 is now available. Quiz 3 will be drawn from these questions. I encourage you to make up your own practice problems as well. This wee it is particularly easy.
+           | --- | Your midterm grades are now online.
 10.16.2016 | --- | Problem set 4 is now available and the second homework is due on Friday 10.21.
 10.12.2016 | --- | The first midterm will be held this coming Monday. Please indication on Piazza what you would like to see reviewed in the lecture on Friday.
 10.10.2016 | --- | Quiz 2 will be happening this week. Look at the first three problems on Problem Set 3.
