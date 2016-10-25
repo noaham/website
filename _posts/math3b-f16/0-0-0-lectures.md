@@ -21,3 +21,4 @@ Here you will find links to the lecture notes and slides as they become availabl
 - [Lecture 9](slides/lect9.pdf)
 - [Lecture 12](slides/lect12.pdf)
 - [Lecture 13](slides/lect13.pdf)
+- [Lecture 14](slides/lect14.pdf)
