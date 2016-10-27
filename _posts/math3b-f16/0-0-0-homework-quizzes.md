@@ -17,7 +17,7 @@ In weeks where no homework is collected a short quiz will be conducted in the di
 - [Problem set 1][ps1]
 - [Problem set 2][ps2] ([solutions](ps/ps2s.pdf)) (Homework due 10/7: q 2(a), 3, and 8)
 - [Problem set 3][ps3] ([solutions](ps/ps3s.pdf))
-- [Problem set 4][ps4] (Homework due 10/21: q 4(m), 5, and 6)
+- [Problem set 4][ps4] ([solutions](ps/ps4s.pdf)) (Homework due 10/21: q 4(m), 5, and 6)
 - [Problem set 5][ps5]
 
 [ps1]: ps/ps1.pdf
