@@ -19,9 +19,11 @@ In weeks where no homework is collected a short quiz will be conducted in the di
 - [Problem set 3][ps3] ([solutions](ps/ps3s.pdf))
 - [Problem set 4][ps4] ([solutions](ps/ps4s.pdf)) (Homework due 10/21: q 4(m), 5, and 6)
 - [Problem set 5][ps5]
+- [Problem set 6][ps6] ([extra diagrams](ps/parabola_diagrams.pdf)) (Homework due 11/4: q 1, 5, and 8)
 
 [ps1]: ps/ps1.pdf
 [ps2]: ps/ps2.pdf
 [ps3]: ps/ps3.pdf
 [ps4]: ps/ps4.pdf
 [ps5]: ps/ps5.pdf
+[ps6]: ps/ps6.pdf
