@@ -113,11 +113,11 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
         <tr class="odd">
             <td align="right">10</td>
             <td align="left">11/28-12/2</td>
-            <td align="left"><span class="hw">HW 5 due</span></td>
+            <td align="left"></td>
             <td align="left"></td>
             <td align="left"><em>Review</em></td>
             <td align="left"></td>
-            <td align="left"><em>Review</em></td>
+            <td align="left"><em><span class="hw">HW 5 due</span>/Review</em></td>
         </tr>
     </tbody>
 </table>
