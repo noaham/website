@@ -23,4 +23,4 @@ __Study:__ Here are some rough study guides and a practice exam which might aid 
 - [Midterm 1 study guide](./midterm1-study_guide.pdf)
 - [Midterm 2 study guide](./midterm2-study_guide.pdf)
 - [Midterm 2 practice exam](./midterm2practice.pdf) ([solutions](./midterm2practice-sols.pdf))
-- [Final practice exam](./final-practice.pdf) (solutions coming soon)
+- [Final practice exam](./final-practice.pdf) ([solutions](./final-practice-s.pdf))
