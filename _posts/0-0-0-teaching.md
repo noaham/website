@@ -3,21 +3,24 @@ layout: default
 title: Teaching experience
 short_title: teaching
 date: 2014-01-04 12:00
-tags: Teaching
+tags: teaching
 pg: Teaching
 weight: 500
 ---
 
-Currently (Fall 2016) I am the instructor for
+Currently (Winter 2017) I am the instructor for
 
 * [Math 3B][]
+* [Math My][]
 
 
-My upcoming teaching duties are
+32B upcoming teaching duties are
 
-[Math 3B][]                          | (Winter 2017)
-[Math 32B][]                         | (Winter 2017)
 [Math 31B][]                         | (Spring 2017)
+
+Previous teaching experience at UCLA
+
+[Math 3B][]                          | (Fall 2016)
 
 Previous tutoring experience at Edinburgh:
 

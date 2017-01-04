@@ -3,7 +3,7 @@ layout: default
 title: About
 short_title: about
 date: 2014-01-01 12:00
-tags: Overview
+tags: overview
 pg: Overview
 weight: 100
 ---

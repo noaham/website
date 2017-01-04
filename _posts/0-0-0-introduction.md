@@ -3,7 +3,7 @@ layout: default
 title: Introduction
 short_title: introduction
 date: 2014-02-08 12:00
-tags: Research
+tags: research
 pg: Research
 weight: 101
 

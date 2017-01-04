@@ -3,7 +3,7 @@ layout: default
 title: Talks
 short_title: talks
 date: 2015-02-20 12:00
-tags: [Overview, Research]
+tags: [overview, research]
 pg: Overview
 weight: 300
 

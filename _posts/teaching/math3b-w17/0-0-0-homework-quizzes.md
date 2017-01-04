@@ -1,0 +1,15 @@
+---
+layout: default
+title: Problem sets, homework and quizzes
+short_title: homework
+date: 2016-09-01 12:00
+tags: teaching/math3b-w17
+pg: Math 3B
+weight: 300
+---
+
+There will be a problem set assigned every week. Most of these will not be collected however it is strongly recommended that you complete it.
+
+Every second week (as indicated in the class schedule below) a small number questions from the problem set will be assigned as homework and collected and graded.
+
+In weeks where no homework is collected a short quiz will be conducted in the discussion sessions. Questions on the quiz will be drawn from the problem set (or will be very similar to one of these questions). The lowest 2 scores out of all homeworks and quizzes will be dropped. The homework and quizzes will count for a total of 10% of your grade.

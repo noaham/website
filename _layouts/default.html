@@ -49,16 +49,16 @@
 			{% for p in pages %}
 			{% if p.title == 'Overview' %}
 			<li><a href="/~noah/">{{ p.title }}</a></li>
-			{% elsif true %}
+			{% elsif p.archived == false  %}
 			<li><a href="/~noah/{{ p.short-title }}">{{ p.title }}</a></li>
 			{% endif %}
-			{% if p.title == page.title %}
+			{% if p.short-title == page.short-title %}
 			<li>
 				<ul>
                     {% assign posts = site.posts | sort:"weight" %}
                     {% for post in posts %}
                     {% for tag in post.tags %}
-					{% if tag == page.title %}
+					{% if tag == page.short-title %}
 					<li><a href="#{{ post.short_title }}">{{ post.title }}</a></li>
 					{% endif %}
                     {% endfor %}

@@ -283,3 +283,11 @@ td.hol {
     background-color: #FFA0A0;
     text-align: center;
 }
+
+.right{
+    float:right;
+}
+
+.left{
+    float:left;
+}

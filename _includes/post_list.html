@@ -1,7 +1,7 @@
 {% assign posts = site.posts | sort:"weight" %}
 {% for post in posts %}
 {% for tag in post.tags %}
-{% if tag == page.title %}
+{% if tag == page.short-title %}
 <section id="{{ post.short_title }}">
 	<h1>{{ post.title }}</h1>
 	{{ post.content }}
