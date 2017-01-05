@@ -11,7 +11,7 @@ weight: 500
 Currently (Winter 2017) I am the instructor for
 
 * [Math 3B][]
-* [Math My][]
+* [Math 32B][]
 
 
 32B upcoming teaching duties are

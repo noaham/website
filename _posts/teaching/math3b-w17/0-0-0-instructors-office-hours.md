@@ -21,4 +21,4 @@ weight: 100
 |                 | TBA, TBA                                                             |
 
 
-I am teaching two courses this quarter. To accommodate this I will be prioritising Math 3B questions in my Wednesday office hours (and Math 32B on Fridays). Please check back here as office hours and locations may change.
+*I am teaching two courses this quarter. To accommodate this I will be prioritising Math 3B questions in my Wednesday office hours (and Math 32B on Fridays). Please check back here as office hours and locations may change.
