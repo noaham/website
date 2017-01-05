@@ -17,7 +17,7 @@ weight: 100
 | _Office hours:_ | TBA, TBA                                                                |
 |                 | Robbie Housden (<a href="mailto:rhousden@math.ucla.edu">rhousden@math.ucla.edu</a>)  |
 |                 | TBA, TBA                                                              |
-|                 | Gyueun Lee (<a href="mailto:gyueun.lee@math.ucla.edu">gyueun.lee@math.ucla.edu</a>) |
+|                 | Gyu Eun Lee (<a href="mailto:gyueun.lee@math.ucla.edu">gyueun.lee@math.ucla.edu</a>) |
 |                 | TBA, TBA                                                              |
 
 
