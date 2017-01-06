@@ -14,11 +14,11 @@ weight: 100
 | _Office hours:_ | MS 6304, 10:30am-12pm Wednesday, Friday*                                        |
 |                 |                                                                                      |
 | __TA:__         | Ben Bellis (<a href="mailto:bbellis@math.ucla.edu">bbellis@math.ucla.edu</a>)          |
-| _Office hours:_ | TBA, TBA                                                                |
+| _Office hours:_ | _MS 6161, 3-4pm Thursday_                                                                |
 |                 | Robbie Housden (<a href="mailto:rhousden@math.ucla.edu">rhousden@math.ucla.edu</a>)  |
-|                 | TBA, TBA                                                              |
+|                 | _TBA, 1-2pm Thursday_                                                             |
 |                 | Gyu Eun Lee (<a href="mailto:gyueun.lee@math.ucla.edu">gyueun.lee@math.ucla.edu</a>) |
-|                 | TBA, TBA                                                              |
+|                 | _TBA, TBA_                                                             |
 
 
 *I am teaching two courses this quarter. To accommodate this I will be prioritising Math 32B questions in my Friday office hours (and Math 3B on Wednesdays). Please check back here as office hours and locations may change.
