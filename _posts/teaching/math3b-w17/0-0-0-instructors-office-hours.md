@@ -17,7 +17,7 @@ weight: 100
 | _Office hours:_ | _MS 3955, 3-5pm Friday_                                                      |
 |                 | Yuejiao Sun (<a href="mailto:sunyj@math.ucla.edu">sunyj@math.ucla.edu</a>)  |
 |                 | _MS 3915B, 2-10am Thursday_                                         |
-|                 | Mengyuan (Jeanine) Ding (<a href="mailto:myding@math.ucla.edu">mengyuanding@ucla.edu</a>) |
+|                 | Mengyuan (Jeanine) Ding (<a href="mailto:mengyuanding@ucla.edu">mengyuanding@ucla.edu</a>) |
 |                 | _MS 2961, 10-11am Tuesday, 1-2pm Thursday_                                   |
 
 
