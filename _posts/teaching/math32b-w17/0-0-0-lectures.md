@@ -12,6 +12,6 @@ Here I will indicate which sections of the textbook will be covered in each lect
 
 You will find links to the lecture notes and slides as they become available. They represent more or less what we covered in lectures but not exactly, depending on how many questions I got and if we ran out of time.
 
-- Lecture 1: Read section 16.1 up to "Example 3". Questions 8-11 in PS1.
+- [Lecture 1](lectures/lect1.pdf): Read section 16.1 up to "Example 3". Questions 8-11 in PS1.
 - Lecture 2: Read rest of section 16.1. Questions 12-14 in PS1.
 - Lecture 3: Read section 16.2. Questions 1-6 in PS2.
