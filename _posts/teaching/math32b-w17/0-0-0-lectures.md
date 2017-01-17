@@ -15,3 +15,5 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 1](lectures/lect1.pdf): Read section 16.1 up to "Example 3". Questions 8-11 in PS1.
 - Lecture 2: Read rest of section 16.1. Questions 12-14 in PS1.
 - Lecture 3: Read section 16.2. Questions 1-6 in PS2.
+- Lecture 4: Read beginning of section 16.3. 
+- Lecture 5: Read end of section 16.3 and section 12.3.
