@@ -19,3 +19,5 @@ __Cheatsheets:__ For each exam, students may bring a cheat sheet. Each student m
 __Calculators:__ You may use a non-programmable, non-graphing calculator in exams. Calculators not meeting this specification will be confiscated.
 
 __Study:__ Here I will post some rough study guides and practice exams which might aid your study.
+
+- [Midterm 1 practice](./midterm1-practice.pdf)
