@@ -17,7 +17,7 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 3](lectures/lect3.pdf): Read section 4.2. Questions 1-2 in PS2.
 - [Lecture 4](lectures/lect4.pdf): Read sections 4.2. Questions 1-3 in PS2.
 - [Lecture 5](lectures/lect5.pdf): Read section 4.3. Questions 4-10 in PS2.
-- Lecture 6: Read section 5.1. Questions 4-7 in PS3.
-- Lecture 7: Read section 5.3. Question 13 in PS3.
+- [Lecture 6](lectures/lect6.pdf): Read section 5.1. Questions 4-7 in PS3.
+- [Lecture 7](lectures/lect7.pdf): Read section 5.3. Question 13 in PS3.
 - Lecture 8: Review.
 
