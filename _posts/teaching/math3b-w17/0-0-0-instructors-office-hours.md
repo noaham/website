@@ -11,7 +11,7 @@ weight: 100
 
 
 | __Instructor:__ | Noah White (<a href="mailto:noah@math.ucla.edu">noah@math.ucla.edu</a>)        |
-| _Office hours:_ | _MS 6304, 10:30am-12pm Wednesday*, Friday_                                   |
+| _Office hours:_ | _MS 6304, 10:30am-12pm Wednesday*, 9:30-11am Thursday_                                   |
 |                 |                                                                                      |
 | __TA:__         | Max Zhou (<a href="mailto:maxzhou94@gmail.com">maxzhou94@gmail.com</a>)          |
 | _Office hours:_ | _MS 3955, 3-5pm Friday_                                                      |

@@ -11,7 +11,7 @@ weight: 100
 
 
 | __Instructor:__ | Noah White (<a href="mailto:noah@math.ucla.edu">noah@math.ucla.edu</a>)              |
-| _Office hours:_ | _MS 6304, 10:30am-12pm Wednesday, Friday_                                       |
+| _Office hours:_ | _MS 6304, 10:30am-12pm Wednesday, 9:30-11am Thursday*_                                       |
 |                 |                                                                                      |
 | __TA:__         | Ben Bellis (<a href="mailto:bbellis@math.ucla.edu">bbellis@math.ucla.edu</a>)          |
 | _Office hours:_ | _MS 6161, 3-4pm Thursday_                                                                |
