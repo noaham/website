@@ -12,12 +12,39 @@ Here I will indicate which sections of the textbook will be covered in each lect
 
 You will find links to the lecture notes and slides as they become available. They represent more or less what we covered in lectures but not exactly, depending on how many questions I got and if we ran out of time.
 
-- [Lecture 1](lectures/lect1.pdf): Review and limits and differentiation. Questions 1-6 in PS1.
-- [Lecture 2](lectures/lect2.pdf): Read section 4.1. Questions 7-11 in PS1.
-- [Lecture 3](lectures/lect3.pdf): Read section 4.2. Questions 1-2 in PS2.
-- [Lecture 4](lectures/lect4.pdf): Read sections 4.2. Questions 1-3 in PS2.
-- [Lecture 5](lectures/lect5.pdf): Read section 4.3. Questions 4-10 in PS2.
-- [Lecture 6](lectures/lect6.pdf): Read section 5.1. Questions 4-7 in PS3.
-- [Lecture 7](lectures/lect7.pdf): Read section 5.3. Question 13 in PS3.
+- [Lecture 1][lect1]: Review and limits and differentiation. Questions 1-6 in PS1.
+- [Lecture 2][lect2]: Read section 4.1. Questions 7-11 in PS1.
+- [Lecture 3][lect3]: Read section 4.2. Questions 1-2 in PS2.
+- [Lecture 4][lect4]: Read sections 4.2. Questions 1-3 in PS2.
+- [Lecture 5][lect5]: Read section 4.3. Questions 4-10 in PS2.
+- [Lecture 6][lect6]: Read section 5.1. Questions 4-7 in PS3.
+- [Lecture 7][lect7]: Read section 5.3. Question 13 in PS3.
 - Lecture 8: Review.
+- [Lecture 9][lect9]: Read sections 5.4 and 5.5. Questions 3-6 on PS4.
+- [Lecture 10][lect10]: Read section 5.6 and review polynomial long division. Questions 1-3 on PS5.
+- Lecture 11: Read additional notes on partial fractions. Questions 4-7 on PS5.
+- Lecture 12: Read section 5.8. Questions ... on PS6.
+- Lecture 13: Questions ... on PS6.
 
+[lect1]: lectures/lect1.pdf
+[lect2]: lectures/lect2.pdf
+[lect3]: lectures/lect3.pdf
+[lect4]: lectures/lect4.pdf
+[lect5]: lectures/lect5.pdf
+[lect6]: lectures/lect6.pdf
+[lect7]: lectures/lect7.pdf
+[lect8]: lectures/lect8.pdf
+[lect9]: lectures/lect9.pdf
+[lect10]: lectures/lect10.pdf
+[lect11]: lectures/lect11.pdf
+[lect12]: lectures/lect12.pdf
+[lect13]: lectures/lect13.pdf
+[lect14]: lectures/lect14.pdf
+[lect15]: lectures/lect15.pdf
+[lect16]: lectures/lect16.pdf
+[lect17]: lectures/lect17.pdf
+[lect18]: lectures/lect18.pdf
+[lect19]: lectures/lect19.pdf
+[lect20]: lectures/lect20.pdf
+[lect21]: lectures/lect21.pdf
+[lect22]: lectures/lect22.pdf
