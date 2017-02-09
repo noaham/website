@@ -22,9 +22,16 @@ You will find links to the lecture notes and slides as they become available. Th
 - Lecture 8: Review.
 - [Lecture 9][lect9]: Read sections 5.4 and 5.5. Questions 3-6 on PS4.
 - [Lecture 10][lect10]: Read section 5.6 and review polynomial long division. Questions 1-3 on PS5.
-- Lecture 11: Read additional notes on partial fractions. Questions 4-7 on PS5.
-- Lecture 12: Read section 5.8. Questions ... on PS6.
-- Lecture 13: Questions ... on PS6.
+- [Lecture 11][lect11]: Read additional notes on partial fractions. Questions 4-7 on PS5.
+- [Lecture 12][lect12]: Read section 5.8. Questions ... on PS6.
+- [Lecture 13][lect13]: Questions ... on PS6.
+- [Lecture 14][lect14]: Read section 6.1.
+- [Lecture 15][lect15]: Read section 6.2.
+- [Lecture 16][lect16]: Read section 6.3 up to example 4
+- [Lecture 17][lect17]: Read rest of section 6.4.
+- Lecture 18: Review
+
+
 
 [lect1]: lectures/lect1.pdf
 [lect2]: lectures/lect2.pdf

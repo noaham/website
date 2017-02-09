@@ -21,10 +21,15 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 7][]: Read section 16.6. Questions 15-17.
 - Lecture 8: Review.
 - [Lecture 9][]: Read section 16.6.
-- Lecture 10: Read end of section 16.4 and 16.5 (minus probability).
-- Lecture 11: Read 17.1
-- Lecture 12: Read 17.2 up to example 4
-- Lecture 13: Read rest of 17.2
+- [Lecture 10][]: Read end of section 16.4 and 16.5 (minus probability).
+- [Lecture 11][]: Read 17.1. Questions
+- [Lecture 12][]: Read 17.1 (notes part of lecture 12).
+- Lecture 13: Read rest of 17.1  and 17.2 up to Example 4.
+- Lecture 14: Read rest of 17.2.
+- Lecture 15: Read 17.3.
+- Lecture 16: Read 17.4 up to example 9.
+- Lecture 17: Read rest of 17.4.
+- Lecture 18: Review
 
 
 [Lecture 1]: lectures/lect1.pdf
