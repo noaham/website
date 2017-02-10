@@ -28,7 +28,7 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 14][lect14]: Read section 6.1.
 - [Lecture 15][lect15]: Read section 6.2.
 - [Lecture 16][lect16]: Read section 6.3 up to example 4
-- [Lecture 17][lect17]: Read rest of section 6.4.
+- Lecture 17: Read rest of section 6.4.
 - Lecture 18: Review
 
 
