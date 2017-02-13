@@ -25,8 +25,8 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 11][]: Read 17.1. Questions
 - [Lecture 12][]: Read 17.1 (notes part of lecture 12).
 - [Lecture 13][]: Read rest of 17.1  and 17.2 up to Example 4.
-- Lecture 14: Read rest of 17.2.
-- Lecture 15: Read 17.3.
+- [Lecture 14][]: Read rest of 17.2.
+- [Lecture 15][]: Read 17.3.
 - Lecture 16: Read 17.4 up to example 9.
 - Lecture 17: Read rest of 17.4.
 - Lecture 18: Review
