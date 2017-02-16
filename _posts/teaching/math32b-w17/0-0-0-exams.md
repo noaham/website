@@ -22,3 +22,4 @@ __Study:__ Here I will post some rough study guides and practice exams which mig
 
 - [Midterm 1 practice](./midterm1-practice.pdf)
 - [Midterm 1 solutions](./midterm1-solutions.pdf)
+- [Midterm 2 practice](./midterm2-practice.pdf)
