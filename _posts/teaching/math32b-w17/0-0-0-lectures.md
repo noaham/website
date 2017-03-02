@@ -30,6 +30,14 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 16][]: Read 17.4 up to example 9.
 - [Lecture 17][]: Read rest of 17.4.
 - Lecture 18: Review
+- Lecture 19: Read 17.5 
+- Lecture 20: Read example 4 onwards 17.5, and up to example 2 in 18.1
+- Lecture 21: Read rest of 18.1
+- Lecture 22: Read 18.2 up to example 2
+- Lecture 23: Read rest of 18.2
+- Lecture 24: Read 18.3 up to example 2
+- Lecture 25: Read rest of 18.3
+- Lecture 26: Review
 
 
 [Lecture 1]: lectures/lect1.pdf
