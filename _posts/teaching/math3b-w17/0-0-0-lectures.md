@@ -34,8 +34,8 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 20][lect20]: Questions 1,2,4,5 on PS9 and read rest of 6.4.
 - [Lecture 21][lect21]: Read section 6.5 up to example 2.
 - [Lecture 22][lect22]: Read rest of section 6.5. 
-- Lecture 23: Read section 6.6 up to example 2.
-- Lecture 24: Read rest of section 6.6.
+- Lecture 23: Examples
+- [Lecture 24][lect24]: Read section 6.6.
 - Lecture 25: Review 
 - Lecture 26: Review
 
@@ -62,3 +62,4 @@ You will find links to the lecture notes and slides as they become available. Th
 [lect20]: lectures/lect20.pdf
 [lect21]: lectures/lect21.pdf
 [lect22]: lectures/lect22.pdf
+[lect24]: lectures/lect24.pdf
