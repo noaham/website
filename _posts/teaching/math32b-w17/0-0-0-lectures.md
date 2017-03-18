@@ -30,13 +30,13 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 16][]: Read 17.4 up to example 9.
 - [Lecture 17][]: Read rest of 17.4.
 - Lecture 18: Review
-- Lecture 19: Read 17.5 
-- Lecture 20: Read example 4 onwards 17.5, and up to example 2 in 18.1
-- Lecture 21: Read rest of 18.1
-- Lecture 22: Read 18.2 up to example 2
-- Lecture 23: Read rest of 18.2
-- Lecture 24: Read 18.3 up to example 2
-- Lecture 25: Read rest of 18.3
+- [Lecture 19][]: Read 17.5 
+- [Lecture 20][]: Read example 4 onwards 17.5, and up to example 2 in 18.1
+- [Lecture 21][]: Read rest of 18.1
+- [Lecture 22][]: Read 18.2 up to example 2
+- [Lecture 23][]: Read rest of 18.2
+- [Lecture 24][]: Read 18.3 up to example 2
+- Lecture 25: Review
 - Lecture 26: Review
 
 
@@ -59,3 +59,8 @@ You will find links to the lecture notes and slides as they become available. Th
 [Lecture 17]: lectures/lect17.pdf
 [Lecture 18]: lectures/lect18.pdf
 [Lecture 19]: lectures/lect19.pdf
+[Lecture 20]: lectures/lect20.pdf
+[Lecture 21]: lectures/lect21.pdf
+[Lecture 22]: lectures/lect22.pdf
+[Lecture 23]: lectures/lect23.pdf
+[Lecture 24]: lectures/lect24.pdf
