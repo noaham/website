@@ -10,17 +10,18 @@ weight: 500
 
 Currently (Winter 2017) I am the instructor for
 
-* [Math 3B][]
-* [Math 32B][]
+* [Math 31B][]
 
 
-32B upcoming teaching duties are
+Upcoming teaching duties are
 
-[Math 31B][]                         | (Spring 2017)
+??? | (2017-2018)
 
 Previous teaching experience at UCLA
 
-[Math 3B][]                          | (Fall 2016)
+[Math 32B][]                         | (Winter 2017)
+[Math 3B][]                          | (Winter 2017)
+                                     | (Fall 2016)
 
 Previous tutoring experience at Edinburgh:
 
