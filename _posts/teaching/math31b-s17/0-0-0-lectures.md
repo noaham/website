@@ -12,7 +12,8 @@ Here I will indicate which sections of the textbook will be covered in each lect
 
 You will find links to the lecture notes and slides as they become available. They represent more or less what we covered in lectures but not exactly, depending on how many questions I got and if we ran out of time.
 
-- Lecture 1
+- [Lecture 1][]: Section 7.2, functions and their inverses.
+- [Lecture 2][]: Section 7.1 and 7.3, exponentials and logarithms.
 
 
 [Lecture 1]: lectures/lect1.pdf
