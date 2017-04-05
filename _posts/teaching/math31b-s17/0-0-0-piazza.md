@@ -14,5 +14,5 @@ You can ask questions, either as yourself or anonymously. I highly encourage you
 
 Obviously homework questions and solutions should not be posted on Piazza. Offences will be treated as academic dishonesty/cheating.
 
-[Piazza]: piazza.com/ucla/spring2017/math31bwhite
+[Piazza]: www.piazza.com/ucla/spring2017/math31bwhite
 [CCLE]: https://ccle.ucla.edu/course/view/17F-MATH31B-1
