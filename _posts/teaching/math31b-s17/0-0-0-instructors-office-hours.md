@@ -16,7 +16,7 @@ weight: 100
 | __TA:__         | Mengyuan (Jeanine) Ding (<a href="mailto:mengyuanding@ucla.edu">mengyuanding@ucla.edu</a>) |
 | _Office hours:_ | _MS 2961, 12-1pm Tuesday_                                                                  |
 |                 | William Baker (<a href="mailto:wsbaker@math.ucla.edu">wsbaker@math.ucla.edu</a>)           |
-|                 | _TBA, TBA_                                                                                 |
+|                 | _MS 2905, 2-3pm Thursday_                                                                                 |
 |                 | Yuejiao Sun (<a href="mailto:sunyj@math.ucla.edu">sunyj@math.ucla.edu</a>)                 |
 |                 | _MS 3915B, 9-10am Thursday_                                                                |
 
