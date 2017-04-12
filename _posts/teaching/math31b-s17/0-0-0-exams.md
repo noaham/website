@@ -3,7 +3,7 @@ layout: default
 title: Exams
 short_title: Exams
 date: 2016-09-01 12:00
-tags: teaching/math31b-a17
+tags: teaching/math31b-s17
 pg: Math 31B
 weight: 400
 ---
