@@ -17,6 +17,10 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 3][]: Section 7.3, lograrithms.
 - [Lecture 4][]: Section 7.8, inverse trig functions.
 - [Lecture 5][]: Section 7.9, hyperbolic trig functions.
+- [Lecture 6][]: Section 9.4, Taylor polynomials.
+- [Lecture 7][]: Section 9.4, Taylor polynomials and errors.
+- Lecture 8: Integration by parts and partial fractions.
+- Lecture 9: Partial fractions and review.
 
 
 [Lecture 1]: lectures/lect1.pdf
