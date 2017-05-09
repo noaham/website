@@ -22,8 +22,13 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 8][]: Partial fractions.
 - Lecture 9: Partial fractions and review.
 - [Lecture 10][]: Sections 7.7 and 8.1, integration by parts and L'Hopital's rule
-- [Lecture 11][]: Section 11.1, improper integrals, discontinuities. 
-- [Lecture 12][]: Section 11.1, improper integrals, infinite domains.
+- [Lecture 11][]: Section 8.7, improper integrals, discontinuities. 
+- [Lecture 12][]: Section 8.7, improper integrals, infinite domains.
+- [Lecture 13][]: Section 8.7, improper integrals examples.
+- [Lecture 14][]: Section 11.1, sequences and convergence.
+- [Lecture 15][]: Section 11.1, bounded monotone sequences.
+- [Lecture 16][]: Section 11.2, series.
+- [Lecture 17][]: Section 11.3, series with positive terms.
 
 [Lecture 1]: lectures/lect1.pdf
 [Lecture 2]: lectures/lect2.pdf
