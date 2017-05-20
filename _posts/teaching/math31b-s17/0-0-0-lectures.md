@@ -29,6 +29,9 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 15][]: Section 11.1, bounded monotone sequences.
 - [Lecture 16][]: Section 11.2, series.
 - [Lecture 17][]: Section 11.3, series with positive terms.
+- [Lecture 18][]: Section 11.3, limit comparison test and examples.
+- [Lecture 19][]: Section 11.4, alternating series.
+- Lecture 20: review.
 
 [Lecture 1]: lectures/lect1.pdf
 [Lecture 2]: lectures/lect2.pdf
