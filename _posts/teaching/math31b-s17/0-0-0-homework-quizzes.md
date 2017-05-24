@@ -22,8 +22,8 @@ In weeks 2, 5, 7, and 10 a short quiz will be conducted in the discussion sessio
 - [Problem set 6][ps6]
 - [Problem set 7][ps7]
 - [Problem set 8][ps8]
-- Problem set 9
-- Problem set 10
+- [Problem set 9][ps9]
+- [Problem set 10][ps10]
 
 [ps1]: ps/ps1.pdf
 [ps2]: ps/ps2.pdf
