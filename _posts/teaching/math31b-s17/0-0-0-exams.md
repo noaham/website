@@ -25,3 +25,4 @@ __Study:__ Here I will post some practice exams which might aid your study.
 - [Formula sheet](./functions.pdf)
 - [Midterm 2 practice](./midterm2-practice.pdf) ([solutions](./midterm2-practice-solutions.pdf))
 - [Midterm 2 practice 2](./midterm2-practice2.pdf) ([solutions](./midterm2-practice2-solutions.pdf))
+- [Final practice](./final-practice.pdf)
