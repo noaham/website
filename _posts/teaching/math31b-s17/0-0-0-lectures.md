@@ -32,6 +32,14 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 18][]: Section 11.3, limit comparison test and examples.
 - [Lecture 19][]: Section 11.4, alternating series.
 - Lecture 20: review.
+- [Lecture 21][]: Section 11.5, ratio and root tests.
+- [Lecture 22][]: Section 11.6, power series.
+- [Lecture 23][]: Section 11.6, power series as functions.
+- [Lecture 24][]: Section 11.7, Taylor series.
+- [Lecture 25][]: Section 11.7, Taylor series.
+- Lecture 26: review.
+- Lecture 27: review.
+
 
 [Lecture 1]: lectures/lect1.pdf
 [Lecture 2]: lectures/lect2.pdf
