@@ -65,3 +65,4 @@ You will find links to the lecture notes and slides as they become available. Th
 [Lecture 22]: lectures/lect22.pdf
 [Lecture 23]: lectures/lect23.pdf
 [Lecture 24]: lectures/lect24.pdf
+[Lecture 25]: lectures/lect25.pdf
