@@ -22,7 +22,9 @@ __Study:__ Here I will post some practice exams which might aid your study.
 
 - [Midterm 1 practice](./midterm1-practice.pdf) ([solutions](./midterm1-practice-solutions.pdf))
 - [Midterm 1 practice 2](./midterm1-practice2.pdf) ([solutions](./midterm1-practice2-solutions.pdf))
+- [Midterm 1a solutions](./midterm1a-sols) [Midterm 1b solutions](./midterm1b-sols)
 - [Formula sheet](./functions.pdf)
 - [Midterm 2 practice](./midterm2-practice.pdf) ([solutions](./midterm2-practice-solutions.pdf))
 - [Midterm 2 practice 2](./midterm2-practice2.pdf) ([solutions](./midterm2-practice2-solutions.pdf))
+- [Midterm 2a solutions](./midterm2a-sols) [Midterm 2b solutions](./midterm2b-sols)
 - [Final practice](./final-practice.pdf)
