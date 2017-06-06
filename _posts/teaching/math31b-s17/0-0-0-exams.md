@@ -27,4 +27,4 @@ __Study:__ Here I will post some practice exams which might aid your study.
 - [Midterm 2 practice](./midterm2-practice.pdf) ([solutions](./midterm2-practice-solutions.pdf))
 - [Midterm 2 practice 2](./midterm2-practice2.pdf) ([solutions](./midterm2-practice2-solutions.pdf))
 - [Midterm 2a solutions](./midterm2a-sols) [Midterm 2b solutions](./midterm2b-sols)
-- [Final practice](./final-practice.pdf) ([solutions](./final-practice2-solutions.pdf))
+- [Final practice](./final-practice.pdf) ([solutions](./final-practice-solutions.pdf))
