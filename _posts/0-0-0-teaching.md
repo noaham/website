@@ -10,15 +10,18 @@ weight: 500
 
 Currently (Winter 2017) I am the instructor for
 
-* [Math 31B][]
+* [Math 3B][]
+* [Math 170A][]
 
 
 Upcoming teaching duties are
 
-??? | (2017-2018)
+[Math 115A][] | (Winter 2018)
+[Math 32B][]  | (Spring 2018)
 
 Previous teaching experience at UCLA
 
+[Math 31B][]                         | (Spring 2017)
 [Math 32B][]                         | (Winter 2017)
 [Math 3B][]                          | (Winter 2017)
                                      | (Fall 2016)
@@ -65,3 +68,5 @@ Lecturer/tutor for [Mathematics bridging course][] 	| (Summer, 2011/12)
 [MATH 3B]: https://www.math.ucla.edu/ugrad/courses/math/3B
 [Math 32B]: https://www.math.ucla.edu/ugrad/courses/math/32B
 [Math 31B]: https://www.math.ucla.edu/ugrad/courses/math/31B
+[Math 170A]: http://www.math.ucla.edu/ugrad/courses/math/170A
+[Math 115A]: http://www.math.ucla.edu/ugrad/courses/math/115A
