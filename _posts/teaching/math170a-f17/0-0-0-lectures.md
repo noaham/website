@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Lecture notes
-short_title: Lecture notes
+title: Lectures
+short_title: Lectures
 date: 2016-09-01 12:00
 tags: teaching/math170a-f17
 pg: Math 170A

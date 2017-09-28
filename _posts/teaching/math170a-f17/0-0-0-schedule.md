@@ -51,7 +51,7 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
             <td align="left"><span class="right">10/16</span><span class="left"><b>8</b></span><br>1.5</td>
             <td align="left"><span class="right">10/17</span><span class="left"><b></b></span><br><span class="hw">Quiz 1</span></td>
             <td align="left"><span class="right">10/18</span><span class="left"><b>9</b></span><br><em>1.6</em></td>
-            <td align="left"><span class="right">10/19</span><span class="left"><b></b></span><br><span class="hw">Quiz 1</span></td>
+            <td align="left"><span class="right">10/19</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">10/20</span><span class="left"><b>10</b></span><br><em>Review</em></td>
         </tr>
         <tr class="odd">
@@ -75,7 +75,7 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
             <td align="left"><span class="right">11/6</span><span class="left"><b>16</b></span><br>2.6</td>
             <td align="left"><span class="right">11/7</span><span class="left"><b></b></span><br><span class="hw">Quiz 2</span></td>
             <td align="left"><span class="right">11/8</span><span class="left"><b>17</b></span><br><em>2.6</em></td>
-            <td align="left"><span class="right">11/9</span><span class="left"><b></b></span><br><span class="hw">Quiz 2</span></td>
+            <td align="left"><span class="right">11/9</span><span class="left"><b></b></span><br></td>
             <td align="left" class="hol"><em>Vets Day<br>(no class)</em></td>
         </tr>
         <tr class="even">
@@ -107,7 +107,7 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
             <td align="left"><span class="right">12/4</span><span class="left"><b>25</b></span><br>3.4</td>
             <td align="left"><span class="right">12/5</span><span class="left"><b></b></span><br><span class="hw">Quiz 3</span></td>
             <td align="left"><span class="right">12/6</span><span class="left"><b>26</b></span><br><em>3.5</em></td>
-            <td align="left"><span class="right">12/7</span><span class="left"><b></b></span><br><span class="hw">Quiz 3</span></td>
+            <td align="left"><span class="right">12/7</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">12/8</span><span class="left"><b>27</b></span><br><em>3.6</em></td>
         </tr>
     </tbody>
