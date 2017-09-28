@@ -36,7 +36,7 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
             <td align="left"><span class="right">10/3</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">10/4</span><span class="left"><b>3</b></span><br><em>1.2</em></td>
             <td align="left"><span class="right">10/5</span><span class="left"><b></b></span><br></td>
-            <td align="left"><span class="right">10/6</span><span class="left"><b>4</b></span><br><em>1.3</em> <span class="hw">HW 1</span></td>
+            <td align="left"><span class="right">10/6</span><span class="left"><b>4</b></span><br><em>1.3</em></td>
         </tr>
         <tr class="odd">
             <td align="right">2.</td>
