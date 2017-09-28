@@ -12,7 +12,7 @@ Here I will indicate which sections of the textbook will be covered in each lect
 
 You will find links to the lecture notes and slides as they become available. They represent more or less what we covered in lectures but not exactly, depending on how many questions I got to and if we ran out of time.
 
-
+- Lecture 1: Review and limits and differentiation. Questions 1-6 in PS1.
 
 [Lecture 1]: lectures/lect1.pdf
 [Lecture 2]: lectures/lect2.pdf

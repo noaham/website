@@ -36,22 +36,22 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
             <td align="left"><span class="right">10/3</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">10/4</span><span class="left"><b>3</b></span><br><em>4.1</em></td>
             <td align="left"><span class="right">10/5</span><span class="left"><b></b></span><br></td>
-            <td align="left"><span class="right">10/6</span><span class="left"><b>4</b></span><br><em>4.2</em> <span class="hw">HW 1</span></td>
+            <td align="left"><span class="right">10/6</span><span class="left"><b>4</b></span><br><em>4.2</em></td>
         </tr>
         <tr class="odd">
             <td align="right">2.</td>
             <td align="left"><span class="right">10/9</span><span class="left"><b>5</b></span><br>4.3-4</td>
-            <td align="left"><span class="right">10/10</span><span class="left"><b></b></span><br><span class="hw">Quiz 1</span></td>
+            <td align="left"><span class="right">10/10</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">10/11</span><span class="left"><b>6</b></span><br><em>5.1</em></td>
-            <td align="left"><span class="right">10/12</span><span class="left"><b></b></span><br><span class="hw">Quiz 1</span></td>
-            <td align="left"><span class="right">10/13</span><span class="left"><b>7</b></span><br><em>5.2</em></td>
+            <td align="left"><span class="right">10/12</span><span class="left"><b></b></span><br></td>
+            <td align="left"><span class="right">10/13</span><span class="left"><b>7</b></span><br><em>5.2</em> <span class="hw">HW 1</span></td>
         </tr>
         <tr class="even">
             <td align="right">3.</td>
             <td align="left"><span class="right">10/16</span><span class="left"><b>8</b></span><br>5.2</td>
-            <td align="left"><span class="right">10/17</span><span class="left"><b></b></span><br></td>
+            <td align="left"><span class="right">10/17</span><span class="left"><b></b></span><br><span class="hw">Quiz 1</span></td>
             <td align="left"><span class="right">10/18</span><span class="left"><b>9</b></span><br><em>5.3</em></td>
-            <td align="left"><span class="right">10/19</span><span class="left"><b></b></span><br></td>
+            <td align="left"><span class="right">10/19</span><span class="left"><b></b></span><br><span class="hw">Quiz 1</span></td>
             <td align="left"><span class="right">10/20</span><span class="left"><b>10</b></span><br><em>Review</em></td>
         </tr>
         <tr class="odd">
