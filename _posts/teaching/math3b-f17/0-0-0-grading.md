@@ -23,7 +23,7 @@ Option 1:
 Option 2:
 
 ~~~
-10% (5 best homework/quiz scores) +
+10% (4 best homework/quiz scores) +
 30% (best midterm score) +
 60% (final exam score)
 = raw final grade
