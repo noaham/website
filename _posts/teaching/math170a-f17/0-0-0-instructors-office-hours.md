@@ -11,7 +11,7 @@ weight: 100
 
 
 | __Instructor:__ | Noah White (<a href="mailto:noah@math.ucla.edu">noah@math.ucla.edu</a>)                    |
-| _Office hours:_ | _MS 6304, TBA_                                      |
+| _Office hours:_ | _MS 6304, Thursday 10-11:30am, Friday 9:30-11am_                                      |
 |                 |                                                                                            |
 | __TA:__         | Robbie Housden (<a href="mailto:rhousden@math.ucla.edu">rhousden@math.ucla.edu</a>) |
 | _Office hours:_ | _TBA_                                                                  |
