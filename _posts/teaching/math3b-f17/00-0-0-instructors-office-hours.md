@@ -18,7 +18,7 @@ weight: 100
 |                 | Kevin Miller (<a href="mailto:millerk22@math.ucla.edu">millerk22@math.ucla.edu</a>)  |
 |                 | _MS 3965, Thursday 9-10am_                                                               |
 |                 | Ryan Wallace (<a href="mailto:rcwallace@math.ucla.edu">rcwallace@math.ucla.edu</a>)  |
-|                 | _TBA_                                                                                |
+|                 | _MS 2361, Thursday 9-10am_                                                             |
 
 
 Please check back here as office hours and locations may change. I am teaching two classes this quarter. To accommodate all students, I am going to prioritise 3B on Thursdays and 170A on Fridays. Feel free to come to either office hour with this in mind.
