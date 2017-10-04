@@ -1,7 +1,8 @@
 name: Noah White
 markdown: kramdown
 highlighter: pygments
-baseurl: /~noah/
+baseurl: /~noah
+
 
 defaults:
   -
