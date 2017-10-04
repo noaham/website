@@ -14,7 +14,7 @@ You will find links to the lecture notes and slides as they become available. Th
 
 - [Lecture 1][]: Review and limits and differentiation. Questions 1-6 in PS1.
 - [Lecture 2][]: Introduction to graphing. Question 9a,d,e on PS1.
-- Lecture 3: More graphing, slanted asymptotes. Question 9b,c,f on PS1.
+- [Lecture 3][]: More graphing, slanted asymptotes. Question 9b,c,f on PS1.
 - Lecture 4: Optimization, maximums and minimums.
 - Lecture 5: More optimization examples.
 - Lecture 6: Antiderivatives.
