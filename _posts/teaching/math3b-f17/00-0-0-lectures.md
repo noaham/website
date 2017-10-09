@@ -17,7 +17,7 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 3][]: More graphing and slanted asymptotes. Question 9b,c,f on PS1.
 - [Lecture 4][]: Optimization, maximums and minimums. Questions 1a, 2a on PS2.
 - [Lecture 5][]: More optimization examples. Question 7 on PS2.
-- Lecture 6: More optimization examples and antiderivatives. 
+- [Lecture 6][]: More optimization examples and antiderivatives. 
 - Lecture 7: Area under curves and accumulated change.
 - Lecture 8: More accumulated change.
 - Lecture 9: The definite integral. 
