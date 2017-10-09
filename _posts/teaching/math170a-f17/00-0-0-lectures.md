@@ -11,6 +11,15 @@ weight: 350
 Here I will indicate which sections of the textbook will be covered in each lecture and the relevant problems in each problem set. It is recommended that you read the textbook and think about some of the problems __before__ the lecture.
 
 - Lecture 1: Sets and manipulating sets.
+- Lecture 2: Sample spaces.
+- Lecture 3: Probability laws.
+- Lecture 4: Counting.
+- Lecture 5: More counting and conditional probability.
+- Lecture 6: Conditional probability.
+- Lecture 7: Baye's rule.
+- Lecture 8: More Baye's rule and ndependant events.
+- Lecture 9: Independant events.
+- Lecture 10: Review
 
 [Lecture 1]: lectures/lect1.pdf
 [Lecture 2]: lectures/lect2.pdf
