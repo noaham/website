@@ -18,6 +18,7 @@ In weeks 3, 6, 10 a quiz will be conducted in the discussion section. Questions 
 
 - [Problem set 1][ps1]
 - [Problem set 2][ps2] (HW1: problems 4 and 6.)
+- [Problem set 3][ps3]
 
 [ps1]: ps/ps1.pdf
 [ps2]: ps/ps2.pdf
