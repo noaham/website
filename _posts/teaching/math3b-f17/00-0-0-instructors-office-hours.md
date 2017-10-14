@@ -22,6 +22,6 @@ weight: 100
 
 Please check back here as office hours and locations may change. I am teaching two classes this quarter. To accommodate all students, I am going to prioritise 3B on Thursdays and 170A on Fridays. Feel free to come to either office hour with this in mind.
 
-__Learning assistants:__ Connie, Jayesh, Kelsey, Jennifer and Nick.
+| __Learning assistants:__ |  Connie, Jayesh, Kelsey, Jennifer and Nick. | 
+| _Office hours:_ | Covell Commons, 227, Friday 6-8pm |
 
-Learning assistants will be in discussions to help you work through problems. Nick will also run a review session Friday's 6-8pm in Covell Commons room 227. 
