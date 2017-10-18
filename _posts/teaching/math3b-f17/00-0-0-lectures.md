@@ -18,10 +18,10 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 4][]: Optimization, maximums and minimums. Questions 1a, 2a on PS2.
 - [Lecture 5][]: More optimization examples. Question 7 on PS2.
 - [Lecture 6][]: More optimization examples and antiderivatives. 
-- Lecture 7: Area under curves and accumulated change.
-- Lecture 8: More accumulated change.
-- Lecture 9: The definite integral. 
-- Lecture 10: Review.
+- [Lecture 7][]: Area under curves and accumulated change.
+- [Lecture 8][]: More accumulated change.
+- [Lecture 9][]: The definite integral. 
+- [Lecture 10][]: Review.
 
 
 [Lecture 1]: lectures/lect1.pdf
