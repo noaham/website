@@ -19,7 +19,7 @@ Here I will indicate which sections of the textbook will be covered in each lect
 - Lecture 7: Baye's rule.
 - Lecture 8: More Baye's rule and ndependant events.
 - Lecture 9: Independant events.
-- Lecture 10: Review
+- [Lecture 10][]: Review
 
 [Lecture 1]: lectures/lect1.pdf
 [Lecture 2]: lectures/lect2.pdf
