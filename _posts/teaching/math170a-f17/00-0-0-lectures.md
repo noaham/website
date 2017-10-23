@@ -30,7 +30,7 @@ Here I will indicate which sections of the textbook will be covered in each lect
 [Lecture 7]: lectures/lect7.pdf
 [Lecture 8]: lectures/lect8.pdf
 [Lecture 9]: lectures/lect9.pdf
-[Lecture 10]: lectures/lect10.pdf
+[Lecture 10]: lectures/review1.pdf
 [Lecture 11]: lectures/lect11.pdf
 [Lecture 12]: lectures/lect12.pdf
 [Lecture 13]: lectures/lect13.pdf
