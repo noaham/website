@@ -11,6 +11,9 @@ weight: 400
 
 This is a list of events that I have attended or will be attending.
 
+Dec | 2017 | [Representation Theory of Symmetric Groups and Related Algebras][Sing17], in Singapore.
+Aug | 2017 | [Interactions between Representation Theory and Algebraic Geometry][Chicago17], in Chicago.
+Mar | 2017 | [Gauge Theory and Categorification][UCLA17], in Los Angeles.
 Apr | 2016 | [Representation Theory and Symplectic Singularities][Premet16], in Edinburgh
 Dec | 2015 | [Geometric and categorical representation theory][Mool15], in Mooloolaba.
 Nov | 2015 | [ARTIN][], in Glasgow.
@@ -52,3 +55,6 @@ Nov | 2012 | [GLEN][], in Glasgow.
 [Bonn15]: http://www.him.uni-bonn.de/events/scientific-events/single-scientific-events/followup-representation-theory-2015/description/
 [Mool15]: https://sites.google.com/site/masoudkomi/mooloolaba
 [Premet16]: http://www.maths.lancs.ac.uk/levyp/RTSS/
+[Chicago17]: https://sites.google.com/site/2017uchicagomathconference/
+[UCLA17]: http://www.ipam.ucla.edu/programs/workshops/gauge-theory-and-categorification/
+[Sing17]: http://ims.nus.edu.sg/events/2017/wrep/

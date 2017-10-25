@@ -11,6 +11,10 @@ weight: 300
 
 Here is a (incomplete) list of the talks I have given.
 
+Nov | 2017 | [AMS Western Sectional meeting][AMSWest], 
+    |      | *The center of the reflection equation algebra (and quantum group) for $GL_n$.*
+Oct | 2017 | [Toronto, Geometric representation theory seminar][Toronto], 
+    |      | *The center of the reflection equation algebra (and quantum group) for $GL_n$.*
 Jun | 2016 | [K&ouml;ln algebra seminar][Kolnalg], 
     |      | *The cactus group and the Gaudin model.*
 Apr | 2016 | [Max Plank Institute, Oberseminar][MPIOber], 
@@ -49,3 +53,5 @@ Sep | 2013 | [Geometry club, Edinburgh][GeoClub],
 [GEARS]: http://www.math.ucla.edu/~noah/gears/
 [GeoClub]: http://hodge.maths.ed.ac.uk/tiki/Geometry+Club
 [ARTIN]: http://hodge.maths.ed.ac.uk/tiki/ARTIN
+[Toronto]: https://seminars.math.toronto.edu/seminars/list/events.py/process?action=filter&seminars_to_show=geometric_representation_theory&past=True&expanded=False
+[AMSWest]: http://www.ams.org/meetings/sectional/2243_program_ss8.html#title

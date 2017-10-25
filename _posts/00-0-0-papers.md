@@ -8,10 +8,10 @@ pg: Overview
 weight: 150
 ---
 
+[Quantum Cayley-Hamilton identities for the reflection equation algebra][qCH] (jt with D. Jordan)
 [The Monodromy of real Bethe vectors for the Gaudin model][monodromy]
 
 Calogero-Moser cells in type A and the RSK correspondence (jt with A. Brochier and I. Gordon). In preparation.
 
-Quantum Cayley-Hamilton identities for the reflection equation algebra (jt with D. Jordon). In preparation.
-
-[monodromy]: /~noah/papers/monodromy_of_bethe_vectors.pdf
+[monodromy]: https://arxiv.org/abs/1511.04740
+[qCH]: https://arxiv.org/abs/1709.09149

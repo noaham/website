@@ -21,8 +21,17 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 7][]: Area under curves and accumulated change.
 - [Lecture 8][]: More accumulated change.
 - [Lecture 9][]: The definite integral. 
-- [Lecture 10][]: Review.
-
+- [Lecture 10][]: Substitution and integration by parts.
+- [Lecture 11][]: Long division and partial fractions.
+- [Lecture 12][]: More partial fractions.
+- [Lecture 13][]: More accomulated change and Riemann sums.
+- [Lecture 14][]: Modelling using differential equations.
+- [Lecture 15][]: Separation of variables.
+- [Lecture 16][]: Mixing models.
+- [Lecture 17][]: More linear models.
+- [Lecture 18][]: Slope fields.
+- [Lecture 19][]: More slope fields.
+- [Lecture 20][]: Review.
 
 [Lecture 1]: lectures/lect1.pdf
 [Lecture 2]: lectures/lect2.pdf

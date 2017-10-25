@@ -20,6 +20,16 @@ Here I will indicate which sections of the textbook will be covered in each lect
 - Lecture 8: More Baye's rule and ndependant events.
 - Lecture 9: Independant events.
 - [Lecture 10][]: Review
+- Lecture 11: Random variables and PMFs.
+- Lecture 12: More PMFs.
+- Lecture 13: Functions of random variables.
+- Lecture 14: Expectation and mean.
+- Lecture 15: Variance.
+- Lecture 16: Joint PMFs.
+- Lecture 17: Covariance and conditioning.
+- Lecture 18: More conditioning and independence.
+- Lecture 19: More independence.
+- Lecture 20: Review.
 
 [Lecture 1]: lectures/lect1.pdf
 [Lecture 2]: lectures/lect2.pdf
