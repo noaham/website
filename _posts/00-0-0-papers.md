@@ -8,7 +8,8 @@ pg: Overview
 weight: 150
 ---
 
-[Quantum Cayley-Hamilton identities for the reflection equation algebra][qCH] (jt with D. Jordan)
+[The center of the reflection equation algebra via quantum minors][qCH] (jt with D. Jordan)
+
 [The Monodromy of real Bethe vectors for the Gaudin model][monodromy]
 
 Calogero-Moser cells in type A and the RSK correspondence (jt with A. Brochier and I. Gordon). In preparation.
