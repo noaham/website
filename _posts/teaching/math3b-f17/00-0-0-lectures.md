@@ -20,11 +20,11 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 6][]: More optimization examples and antiderivatives. 
 - [Lecture 7][]: Area under curves and accumulated change.
 - [Lecture 8][]: More accumulated change.
-- [Lecture 9][]: The definite integral. 
-- [Lecture 10][]: Substitution and integration by parts.
-- [Lecture 11][]: More integrals
-- [Lecture 12][]: Accumulated change using Riemann sums.
-- [Lecture 13][]: More accumulated change using Riemann sums.
+- [Lecture 9][]: The definite integral and substitution. 
+- [Lecture 10][]: Review.
+- [Lecture 11][]: More integrals.
+- Lecture 12: Accumulated change using Riemann sums.
+- Lecture 13: More accumulated change using Riemann sums.
 - [Lecture 14][]: Long division and partial fractions.
 - [Lecture 15][]: Modelling using differential equations and separation of variables.
 - [Lecture 16][]: Mixing models.
