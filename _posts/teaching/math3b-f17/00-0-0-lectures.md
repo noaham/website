@@ -22,11 +22,11 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 8][]: More accumulated change.
 - [Lecture 9][]: The definite integral. 
 - [Lecture 10][]: Substitution and integration by parts.
-- [Lecture 11][]: Long division and partial fractions.
-- [Lecture 12][]: More partial fractions.
-- [Lecture 13][]: More accomulated change and Riemann sums.
-- [Lecture 14][]: Modelling using differential equations.
-- [Lecture 15][]: Separation of variables.
+- [Lecture 11][]: More integrals
+- [Lecture 12][]: Accumulated change using Riemann sums.
+- [Lecture 13][]: More accumulated change using Riemann sums.
+- [Lecture 14][]: Long division and partial fractions.
+- [Lecture 15][]: Modelling using differential equations and separation of variables.
 - [Lecture 16][]: Mixing models.
 - [Lecture 17][]: More linear models.
 - [Lecture 18][]: Slope fields.
