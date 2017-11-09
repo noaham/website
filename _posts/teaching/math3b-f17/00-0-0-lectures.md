@@ -26,11 +26,11 @@ You will find links to the lecture notes and slides as they become available. Th
 - Lecture 12: Accumulated change using Riemann sums.
 - Lecture 13: More accumulated change using Riemann sums.
 - [Lecture 14][]: Long division and partial fractions.
-- [Lecture 15][]: Modelling using differential equations and separation of variables.
-- [Lecture 16][]: Mixing models.
-- [Lecture 17][]: More linear models.
-- [Lecture 18][]: Slope fields.
-- [Lecture 19][]: More slope fields.
+- [Lecture 15][]: More partial fractions.
+- [Lecture 16][]: Modelling using differential equations.
+- [Lecture 17][]: Basic examples of ODEs.
+- [Lecture 18][]: Separation of variables
+- [Lecture 19][]: Linear models.
 - [Lecture 20][]: Review.
 
 [Lecture 1]: lectures/lect1.pdf
