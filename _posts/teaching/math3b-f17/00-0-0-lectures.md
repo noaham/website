@@ -32,9 +32,9 @@ You will find links to the lecture notes and slides as they become available. Th
 - [Lecture 18][]: Separation of variables
 - [Lecture 19][]: Linear models.
 - Lecture 20: Review.
-- [Lecture 21][]: Slope fields and Eulers method.
-- [Lecture 22][]: Autonomous equations and phase lines.
-- [Lecture 23][]: More phase lines and equilibria.
+- [Lecture 21][]: Slope fields.
+- [Lecture 22][]: Eulers method.
+- [Lecture 23][]: Phase lines and equilibria.
 - [Lecture 24][]: Bifurcation diagrams.
 - [Lecture 25][]: More bifurcation diagrams.
 - Lecture 26: Review.
