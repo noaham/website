@@ -30,6 +30,13 @@ Here I will indicate which sections of the textbook will be covered in each lect
 - Lecture 18: More conditioning and independence.
 - Lecture 19: More independence.
 - Lecture 20: Review.
+- Lecture 21: Continuous random variables.
+- Lecture 22: Probability density functions.
+- Lecture 23: Normal random variables.
+- Lecture 24: Conditioning.
+- Lecture 25: Coninuous Bayes.
+- Lecture 26: Review.
+- Lecture 27: Review.
 
 [Lecture 1]: lectures/lect1.pdf
 [Lecture 2]: lectures/lect2.pdf
