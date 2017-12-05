@@ -23,7 +23,7 @@ In weeks 3, 6, 10 a short quiz will be conducted in the discussion sessions. Que
 - [Problem set 7][ps7] ([solutions](ps/ps7s.pdf))
 - [Problem set 8][ps8] ([solutions](ps/ps8s.pdf)) (HW3: problem 3 and...)
 - [Problem set 9][ps9] (HW3: problem 7)
-- [Problem set 10][ps10]
+- [Problem set 10][ps10] ([solutions](ps/ps10s.pdf))
 
 
 [ps1]: ps/ps1.pdf
