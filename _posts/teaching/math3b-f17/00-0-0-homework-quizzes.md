@@ -14,15 +14,15 @@ In weeks 2, 5, 9 (as indicated in the class schedule below) a small number quest
 
 In weeks 3, 6, 10 a short quiz will be conducted in the discussion sessions. Questions on the quiz will be drawn from the problem set (or will be very similar to one of these questions). The lowest 2 scores out of all homeworks and quizzes will be dropped. The homework and quizzes will count for a total of 10% of your grade.
 
-- [Problem set 1][ps1]
+- [Problem set 1][ps1] ([solutions](ps/ps1s.pdf))
 - [Problem set 2][ps2] ([solutions](ps/ps2s.pdf)) (HW1: problems 5, 8, and 9.) 
-- [Problem set 3][ps3]
+- [Problem set 3][ps3] ([solutions](ps/ps3s.pdf))
 - [Problem set 4][ps4] ([solutions](ps/ps4s.pdf)) (HW2: problem 7 and...)
 - [Problem set 5][ps5] ([solutions](ps/ps5s.pdf)) (HW2: problem 3)
 - [Problem set 6][ps6] ([solutions](ps/ps6s.pdf))
 - [Problem set 7][ps7] ([solutions](ps/ps7s.pdf))
 - [Problem set 8][ps8] ([solutions](ps/ps8s.pdf)) (HW3: problem 3 and...)
-- [Problem set 9][ps9] (HW3: problem 7)
+- [Problem set 9][ps9] ([solutions](ps/ps9s.pdf)) (HW3: problem 7)
 - [Problem set 10][ps10] ([solutions](ps/ps10s.pdf))
 
 
