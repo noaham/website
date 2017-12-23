@@ -8,23 +8,23 @@ pg: Teaching
 weight: 500
 ---
 
-Currently (Winter 2017) I am the instructor for
+Currently (Winter 2018) I am the instructor for
 
-* [Math 3B][]
-* [Math 170A][]
+* [Math 115A][]
 
 
 Upcoming teaching duties are
 
-[Math 115A][] | (Winter 2018)
 [Math 32B][]  | (Spring 2018)
 
 Previous teaching experience at UCLA
 
+[Math 170A][]                        | (Fall 2017)
 [Math 31B][]                         | (Spring 2017)
-[Math 32B][]                         | (Winter 2017)
-[Math 3B][]                          | (Winter 2017)
-                                     | (Fall 2016)
+[Math 32B][]                         | (Winter 2017) 
+[Math 3B][]                          | (Fall 2017) 
+                                     | (Winter 2017) 
+                                     | (Fall 2016) 
 
 Previous tutoring experience at Edinburgh:
 
