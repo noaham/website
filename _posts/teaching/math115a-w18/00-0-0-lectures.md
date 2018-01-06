@@ -3,8 +3,8 @@ layout: default
 title: Lectures
 short_title: Lectures
 date: 2016-09-01 12:00
-tags: teaching/math170a-f17
-pg: Math 170A
+tags: teaching/math115a-w18
+pg: Math 115A
 weight: 350
 ---
 
