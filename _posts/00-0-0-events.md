@@ -12,6 +12,7 @@ weight: 400
 This is a list of events that I have attended or will be attending.
 
 Dec | 2017 | [Representation Theory of Symmetric Groups and Related Algebras][Sing17], in Singapore.
+Nov | 2017 | [AMW Western sectional meeting][AMS17], in Riverside.
 Aug | 2017 | [Interactions between Representation Theory and Algebraic Geometry][Chicago17], in Chicago.
 Mar | 2017 | [Gauge Theory and Categorification][UCLA17], in Los Angeles.
 Apr | 2016 | [Representation Theory and Symplectic Singularities][Premet16], in Edinburgh
@@ -58,3 +59,4 @@ Nov | 2012 | [GLEN][], in Glasgow.
 [Chicago17]: https://sites.google.com/site/2017uchicagomathconference/
 [UCLA17]: http://www.ipam.ucla.edu/programs/workshops/gauge-theory-and-categorification/
 [Sing17]: http://ims.nus.edu.sg/events/2017/wrep/
+[AMS17]: http://www.ams.org/meetings/sectional/2243_program.html
