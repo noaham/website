@@ -3,7 +3,7 @@ layout: default
 title: Schedule
 short_title: Schedule
 date: 2016-09-01 12:00
-tags: teaching/math115a-f17
+tags: teaching/math115a-w18
 pg: Math 115A
 weight: 600
 ---
