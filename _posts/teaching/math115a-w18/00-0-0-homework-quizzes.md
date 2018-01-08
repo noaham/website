@@ -12,7 +12,7 @@ There will be a problem set assigned every week. Most of these will not be colle
 
 In weeks X, X, X (as indicated in the class schedule below) a small number questions from the problem sets will be assigned as homework and collected and graded. 
 
-In weeks X, X, X a quiz will be conducted in the discussion section. Questions on the quiz will be drawn from the problem set (or will be very similar to one of these questions). The lowest 2 scores out of all homeworks and quizzes will be dropped. The homework and quizzes will count for a total of 10% of your grade.
+In weeks X, X, X a quiz will be conducted in the discussion section. Questions on the quiz will be very similar to (or the same as) one of the questions on the problem set. The lowest 2 scores out of all homeworks and quizzes will be dropped. The homework and quizzes will count for a total of 10% of your grade.
 
 
 [ps1]: ps/ps1.pdf
