@@ -10,8 +10,8 @@ weight: 400
 
 There will be two midterms and a final exam. Apart from the exceptions mentioned below, only writing equipment will be allowed in exams. Exams must be written in pen.
 
-* __Midterm 1:__ 8am Monday 29 January
-* __Midterm 2:__ 8am Monday 26 February
+* __Midterm 1:__ 8am Wednesday 31 January
+* __Midterm 2:__ 8am Wednesday 28 February
 * __Final Exam:__ 8am Thursday 22 March
 
 __Cheatsheets:__ For each exam, students may bring a cheat sheet. Each student must prepare their own handwritten cheat sheet. For the midterms, the cheat sheet may consist of one side of half a standard (A4 or letter) sheet of paper (i.e. A5 or letter folded in half lengthways). For the final, the cheat sheet may consist of one side of a standard sheet of paper. Cheatsheets that do not meet these requirements will be confiscated at the beginning of the exam.
