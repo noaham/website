@@ -10,6 +10,8 @@ weight: 350
 
 Here I will indicate which sections of the textbook will be covered in each lecture and the relevant problems in each problem set. It is recommended that you read the textbook and think about some of the problems __before__ the lecture.
 
+- [Lecture notes](lecture-notes.pdf)
+
 - Lecture 1: Vector spaces, 1.2.1, 1.2.11.
 - Lecture 2: Subspaces, 1.3.1, 1.3.11, 1.3.12
 - Lecture 3: Linear (in)dependance
