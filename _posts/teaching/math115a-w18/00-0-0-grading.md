@@ -14,7 +14,7 @@ The midterm scores will be adjusted to account for any difference in difficulty.
 Option 1:
 
 ~~~
-10% (4 best homework/quiz scores) +
+10% (6 best homework/quiz scores) +
 40% (combined midterm scores) +
 50% (final exam score)
 = raw final grade
@@ -23,7 +23,7 @@ Option 1:
 Option 2:
 
 ~~~
-10% (4 best homework/quiz scores) +
+10% (6 best homework/quiz scores) +
 30% (best midterm score) +
 60% (final exam score)
 = raw final grade

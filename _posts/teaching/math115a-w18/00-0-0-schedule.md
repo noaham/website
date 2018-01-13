@@ -41,9 +41,9 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
         <tr class="even">
             <td align="right">3.</td>
             <td align="left"><span class="right">1/22</span><span class="left"><b>6</b></span><br>1.6</td>
-            <td align="left"><span class="right">1/23</span><span class="left"><b></b></span><br><span class="hw">Quiz 1</span></td>
+            <td align="left"><span class="right">1/23</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">1/24</span><span class="left"><b>7</b></span><br><em>2.1</em></td>
-            <td align="left"><span class="right">1/25</span><span class="left"><b></b></span><br></td>
+            <td align="left"><span class="right">1/25</span><span class="left"><b></b></span><br><span class="hw">Quiz 1</span></td>
             <td align="left"><span class="right">1/26</span><span class="left"><b>8</b></span><br><em>2.1</em></td>
         </tr>
         <tr class="odd">
@@ -52,7 +52,7 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
             <td align="left"><span class="right">1/30</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">1/31</span><span class="left"><b></b></span><br><span class="exam">Midterm 1</span></td>
             <td align="left"><span class="right">2/1</span><span class="left"><b></b></span><br></td>
-            <td align="left"><span class="right">2/2</span><span class="left"><b>10</b></span><br><em>2.2</em></td>
+            <td align="left"><span class="right">2/2</span><span class="left"><b>10</b></span><br><em>2.2</em> <span class="hw">HW 2</span></td>
         </tr>
         <tr class="even">
             <td align="right">5.</td>
@@ -60,22 +60,22 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
             <td align="left"><span class="right">2/6</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">2/7</span><span class="left"><b>12</b></span><br><em>2.3</em></td>
             <td align="left"><span class="right">2/8</span><span class="left"><b></b></span><br></td>
-            <td align="left"><span class="right">2/9</span><span class="left"><b>13</b></span><br><em>2.4</em> <span class="hw">HW 2</span></td>
+            <td align="left"><span class="right">2/9</span><span class="left"><b>13</b></span><br><em>2.4</em> <span class="hw">HW 3</span></td>
         </tr>
         <tr class="odd">
             <td align="right">6.</td>
             <td align="left"><span class="right">2/12</span><span class="left"><b>14</b></span><br>2.5</td>
-            <td align="left"><span class="right">2/13</span><span class="left"><b></b></span><br><span class="hw">Quiz 2</span></td>
+            <td align="left"><span class="right">2/13</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">2/14</span><span class="left"><b>15</b></span><br><em>4.4</em></td>
             <td align="left"><span class="right">2/15</span><span class="left"><b></b></span><br></td>
-            <td align="left"><span class="right">2/16</span><span class="left"><b>16</b></span><br><em>5.1</em></td>
+            <td align="left"><span class="right">2/16</span><span class="left"><b>16</b></span><br><em>5.1</em> <span class="hw">HW 4</span></td>
         </tr>
         <tr class="even">
             <td align="right">7.</td>
             <td align="left" class="hol"><em>Pres Day<br>(no class)</em></td>
             <td align="left"><span class="right">2/20</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">2/21</span><span class="left"><b>17</b></span><br><em>5.1</em></td>
-            <td align="left"><span class="right">2/22</span><span class="left"><b></b></span><br></td>
+            <td align="left"><span class="right">2/22</span><span class="left"><b></b></span><br><span class="hw">Quiz 2</span></td>
             <td align="left"><span class="right">2/23</span><span class="left"><b>18</b></span><br><em>5.2</em></td>
         </tr>
         <tr class="odd">
@@ -84,23 +84,23 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
             <td align="left"><span class="right">2/27</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">2/28</span><span class="left"><b></b></span><br><span class="exam">Midterm 2</span></td>
             <td align="left"><span class="right">3/1</span><span class="left"><b></b></span><br></td>
-            <td align="left"><span class="right">3/2</span><span class="left"><b>20</b></span><br><em>5.2</em></td>
+            <td align="left"><span class="right">3/2</span><span class="left"><b>20</b></span><br><em>5.2</em> <span class="hw">HW 5</span></td>
         </tr>
         <tr class="even">
             <td align="right">9.</td>
             <td align="left"><span class="right">3/5</span><span class="left"><b>21</b></span><br>6.1</td>
             <td align="left"><span class="right">3/6</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">3/7</span><span class="left"><b>22</b></span><br><em>6.2</em></td>
-            <td align="left"><span class="right">3/8</span><span class="left"><b></b></span><br></td>
-            <td align="left"><span class="right">3/9</span><span class="left"><b>23</b></span><br><em>6.3</em> <span class="hw">HW 3</span></td>
+            <td align="left"><span class="right">3/8</span><span class="left"><b></b></span><br><span class="hw">Quiz 3</span></td>
+            <td align="left"><span class="right">3/9</span><span class="left"><b>23</b></span><br><em>6.3</em></td>
         </tr>
         <tr class="odd">
             <td align="right">10.</td>
             <td align="left"><span class="right">3/12</span><span class="left"><b>24</b></span><br>6.4</td>
-            <td align="left"><span class="right">3/13</span><span class="left"><b></b></span><br><span class="hw">Quiz 3</span></td>
+            <td align="left"><span class="right">3/13</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">3/14</span><span class="left"><b>25</b></span><br><em>6.4</em></td>
             <td align="left"><span class="right">3/15</span><span class="left"><b></b></span><br></td>
-            <td align="left"><span class="right">3/16</span><span class="left"><b>26</b></span><br><em>Review</em></td>
+            <td align="left"><span class="right">3/16</span><span class="left"><b>26</b></span><br><em>Review</em> <span class="hw">HW 6</span></td>
         </tr>
     </tbody>
 </table>
