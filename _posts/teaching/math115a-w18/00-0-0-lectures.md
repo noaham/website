@@ -15,9 +15,9 @@ Here I will indicate which sections of the textbook will be covered in each lect
 - Lecture 1: Vector spaces, 1.2.1, 1.2.11.
 - Lecture 2: Subspaces, 1.3.1, 1.3.11,
 - Lecture 3: More subspaces, 1.3.12
-- Lecture 4: Linear (in)dependance
-- Lecture 5: Bases and dimension
-- Lecture 6: Bases and dimension
+- Lecture 4: Linear (in)dependance, 1.4.1, 1.5.1, 1.5.2a
+- Lecture 5: Bases and dimension, 1.6.1, 1.6.2a
+- Lecture 6: Bases and dimension, 1.6.3a, 1.6.6
 - Lecture 7: Linear transformations
 - Lecture 8: Review
 - Lecture 9: Kernels and images
