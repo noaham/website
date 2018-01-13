@@ -13,8 +13,8 @@ Here I will indicate which sections of the textbook will be covered in each lect
 - [Lecture notes](lecture-notes.pdf)
 
 - Lecture 1: Vector spaces, 1.2.1, 1.2.11.
-- Lecture 2: Subspaces, 1.3.1, 1.3.11, 1.3.12
-- Lecture 3: Linear (in)dependance
+- Lecture 2: Subspaces, 1.3.1, 1.3.11,
+- Lecture 3: More subspaces, 1.3.12
 - Lecture 4: Linear (in)dependance
 - Lecture 5: Bases and dimension
 - Lecture 6: Bases and dimension
