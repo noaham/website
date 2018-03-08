@@ -22,3 +22,4 @@ __Study:__ Here I will post some practice exams which might aid your study.
 
 - [Midterm 1 practice](midterm1-practice.pdf) ([solutions](midterm1-practice-sols.pdf))
 - [Midterm 2 practice](midterm2-practice.pdf) ([solutions](midterm2-practice-sols.pdf))
+- [Final practice](final-practice.pdf) ([solutions](final-practice-sols.pdf))
