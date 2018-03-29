@@ -2,8 +2,8 @@
 layout: default
 title: Instructor, TAs and office hours
 short_title: Instructors and office hours
+tags: teaching/math32b-s18
 date: 2016-09-01 12:00
-tags: teaching/math32b-w17
 pg: Math 32B
 weight: 100
 ---

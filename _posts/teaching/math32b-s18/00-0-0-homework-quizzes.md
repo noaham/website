@@ -3,8 +3,8 @@ layout: default
 title: Problem sets, homework and quizzes
 short_title: homework
 date: 2016-09-01 12:00
-tags: teaching/math32b-w17
-pg: Math 3B
+tags: teaching/math32b-s18
+pg: Math 32B
 weight: 300
 ---
 
