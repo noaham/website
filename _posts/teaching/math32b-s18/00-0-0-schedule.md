@@ -3,8 +3,8 @@ layout: default
 title: Schedule
 short_title: Schedule
 date: 2016-09-01 12:00
-tags: teaching/math32b-w17
-pg: Math 3B
+tags: teaching/math32b-s18
+pg: Math 32B
 weight: 600
 ---
 
