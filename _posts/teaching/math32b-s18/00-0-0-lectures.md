@@ -1,0 +1,15 @@
+---
+layout: default
+title: Lecture notes
+short_title: Lecture notes
+date: 2016-09-01 12:00
+tags: teaching/math32b-s18
+pg: Math 32B
+weight: 350
+---
+
+Here you will find links to the lecture notes and slides as they become available. They represent more or less what we covered in lectures but not exactly, depending on how many questions I got and if we ran out of time. Most of the examples we do in class will not be in the lecture notes.
+
+- [Lecture notes][]
+
+[Lecture notes]: lecture-notes.pdf
