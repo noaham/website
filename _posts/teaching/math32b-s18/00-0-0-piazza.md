@@ -3,8 +3,8 @@ layout: default
 title: Campuswire
 short_title: Campuswire
 date: 2016-09-01 12:00
-tags: teaching/math115a-w18
-pg: Math 115A
+tags: teaching/math32b-s18
+pg: Math 32B
 weight: 700
 ---
 
