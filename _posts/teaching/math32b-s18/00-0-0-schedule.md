@@ -100,7 +100,7 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
             <td align="left"><span class="right">6/5</span><span class="left"><b>  </b></span><br></td>
             <td align="left"><span class="right">6/6</span><span class="left"><b>26</b></span><br><em>18.3</em></td>
             <td align="left"><span class="right">6/7</span><span class="left"><b>  </b></span><br></td>
-            <td align="left"><span class="right">6/8</span><span class="left"><b>27</b></span><br><em>Review</em> <span class="hw">HW 4</span></td>
+            <td align="left"><span class="right">6/8</span><span class="left"><b>27</b></span><br><em>Review</em> <span class="hw">HW 5</span></td>
         </tr>
     </tbody>
 </table>
