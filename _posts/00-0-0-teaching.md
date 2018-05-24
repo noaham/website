@@ -15,14 +15,18 @@ Currently (Winter 2018) I am the instructor for
 
 Upcoming teaching duties are
 
-???                                  | (Fall 2018)
+[Math 3B][]                          | (Fall 2018)
+[Math 3B][]                          | (Winter 2018)
+[Math 115A][]                        |
+[Math 3B][]                          | (Spring 2018)
 
 Previous teaching experience at UCLA
 
 [Math 115A][]                        | (Winter 2018)
 [Math 170A][]                        | (Fall 2017)
 [Math 31B][]                         | (Spring 2017)
-[Math 32B][]                         | (Winter 2017) 
+[Math 32B][]                         | (Spring 2018)
+                                     | (Winter 2017)
 [Math 3B][]                          | (Fall 2017) 
                                      | (Winter 2017) 
                                      | (Fall 2016) 
