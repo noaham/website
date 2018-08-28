@@ -33,9 +33,9 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
         <tr class="even">
             <td align="right">1.</td>
             <td align="left"><span class="right">10/1</span><span class="left"><b>2</b></span><br>4.1</td>
-            <td align="left"><span class="right">10/2</span><span class="left"><b></b></span><br><span class="hw">Quiz 1</td>
+            <td align="left"><span class="right">10/2</span><span class="left"><b></b></span><br><span class="hw">Quiz 1</span></td>
             <td align="left"><span class="right">10/3</span><span class="left"><b>3</b></span><br><em>4.1</em></td>
-            <td align="left"><span class="right">10/4</span><span class="left"><b></b></span><br><span class="hw">Quiz 1</td>
+            <td align="left"><span class="right">10/4</span><span class="left"><b></b></span><br><span class="hw">Quiz 1</span></td>
             <td align="left"><span class="right">10/5</span><span class="left"><b>4</b></span><br><em>4.2</em></td>
         </tr>
         <tr class="odd">
@@ -100,7 +100,7 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
             <td align="left"><span class="right">11/27</span><span class="left"><b></b></span><br><span class="hw">Quiz 5</span></td>
             <td align="left"><span class="right">11/28</span><span class="left"><b>23</b></span><br><em>6.5</em></td>
             <td align="left"><span class="right">11/29</span><span class="left"><b></b></span><br><span class="hw">Quiz 5</span></td>
-            <td align="left"><span class="right">12/30</span><span class="left"><b>24</b></span><br><em>6.6</em> <span class="hw">HW 3</span></td>
+            <td align="left"><span class="right">12/30</span><span class="left"><b>24</b></span><br><em>6.6</em></td>
         </tr>
         <tr class="odd">
             <td align="right">10.</td>
