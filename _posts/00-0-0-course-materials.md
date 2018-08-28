@@ -10,6 +10,7 @@ weight: 100
 
 Course websites and materials, office hours and other information.
 
+* [Math 32B][32b-s18] (Spring 2018)
 * [Math 115A][115a-w18] (Winter 2018)
 * [Math 170A][170a-f17] (Fall 2017)
 * [Math 3B][3b-f17] (Fall 2017)
@@ -23,5 +24,6 @@ Course websites and materials, office hours and other information.
 [3b-f17]: /~noah/teaching/math3b-f17/
 [31b-s17]: /~noah/teaching/math31b-s17/
 [32b-w17]: /~noah/teaching/math32b-w17/
+[32b-s18]: /~noah/teaching/math32b-s18/
 [3b-w17]: /~noah/teaching/math3b-w17/
 [3b-f16]: /~noah/teaching/math3b-f16/
