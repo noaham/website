@@ -10,8 +10,8 @@ weight: 400
 
 There will be two midterms and a final exam.
 
-* __Midterm 1:__ 10-10:50am Monday, 22 October, 2018
-* __Midterm 2:__ 10-10:50am Monday, 19 November, 2018
+* __Midterm 1:__ 8-8:50am Monday, 22 October, 2018
+* __Midterm 2:__ 8-8:50am Monday, 19 November, 2018
 * __Final Exam:__ 11:30am-2:30pm Monday, 10 December, 2018
 
 __Cheatsheets:__ For each exam, students may bring a cheat sheet. Each student must prepare their own handwritten cheat sheet. For the midterms, the cheat sheet may consist of one side of half a standard (A4 or letter) sheet of paper (i.e. A5 or letter folded in half lengthways). For the final, the cheat sheet may consist of one side of a standard sheet of paper. Cheatsheets that do not meet these requirements will be confiscated at the beginning of the exam.
