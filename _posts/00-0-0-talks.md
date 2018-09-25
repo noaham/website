@@ -11,6 +11,8 @@ weight: 300
 
 Here is a (incomplete) list of the talks I have given.
 
+Apr | 2018 | [UCLA Algebra seminar][ucla],
+    |      | *A moduli of approaches to the representation theory of the symmetric groups.*
 Nov | 2017 | [AMS Western Sectional meeting][AMSWest], 
     |      | *The center of the reflection equation algebra (and quantum group) for $GL_n$.*
 Oct | 2017 | [Toronto, Geometric representation theory seminar][Toronto], 
@@ -42,6 +44,7 @@ Sep | 2013 | [Geometry club, Edinburgh][GeoClub],
     |      | *Invariants of knots from representation theory.*
 
 
+[ucla]: https://secure.math.ucla.edu/seminars/show_quarter.php?t=1537555027&type=Algebra&id=&tba=
 [Kolnalg]: http://www.mi.uni-koeln.de/algebra/seminars/
 [MPIOber]: https://www.mpim-bonn.mpg.de/node/158
 [IMJParis]: http://www.imj-prg.fr/spip.php?article154

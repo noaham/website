@@ -11,6 +11,7 @@ weight: 400
 
 This is a list of events that I have attended or will be attending.
 
+Aug | 2018 | [WARTHOG: Deligne-Lusztig Theory][warthog], in Eugene Oregon.
 Dec | 2017 | [Representation Theory of Symmetric Groups and Related Algebras][Sing17], in Singapore.
 Nov | 2017 | [AMW Western sectional meeting][AMS17], in Riverside.
 Aug | 2017 | [Interactions between Representation Theory and Algebraic Geometry][Chicago17], in Chicago.
@@ -39,6 +40,7 @@ Mar | 2013 | [Soergel bimodules and Kazhdan-Lusztig conjectures][Aarhus13], in A
 Dec | 2012 | [ARTIN][ARTINold], in Edinburgh.
 Nov | 2012 | [GLEN][], in Glasgow.
 
+[warthog]: https://pages.uoregon.edu/belias/WARTHOG/
 [Algebraic Lie theory]: http://www.icms.org.uk/workshop.php?id=299
 [Algebraic Lie theory summer school]: http://www.maths.gla.ac.uk/~gbellamy/summer/index.html
 [PBW filtrations of modules for Lie algebras]: http://www.maths.gla.ac.uk/~gfourier/workshop14.htm

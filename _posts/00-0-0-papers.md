@@ -8,11 +8,15 @@ pg: Overview
 weight: 150
 ---
 
+The cactus group and Lusztig's isomorphism (jt with R. Rouquier). In preparation.
+
+Calogero-Moser cells in type A and the RSK correspondence (jt with A. Brochier and I. Gordon). In preparation.
+
 [The center of the reflection equation algebra via quantum minors][qCH] (jt with D. Jordan)
 
 [The Monodromy of real Bethe vectors for the Gaudin model][monodromy]
 
-Calogero-Moser cells in type A and the RSK correspondence (jt with A. Brochier and I. Gordon). In preparation.
+
 
 [monodromy]: https://arxiv.org/abs/1511.04740
 [qCH]: https://arxiv.org/abs/1709.09149
