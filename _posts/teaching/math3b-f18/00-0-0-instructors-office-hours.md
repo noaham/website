@@ -16,7 +16,7 @@ weight: 100
 | __TA:__         | Benjamin Jarman (<a href="mailto:bjarman@math.ucla.edu">bjarman@math.ucla.edu</a>)  |
 | _Office hours:_ | _MS 2943, Thursday 9-10am_                                                     |
 |                 | Ryan Wilkinson (<a href="mailto:rwilkinson@math.ucla.edu">rwilkinson@math.ucla.edu</a>) |
-|                 | _TBA_                                                     |
+|                 | _MS 3915C, Tuesday 1-2pm, Thursday 10-11am_                                                     |
 
 
 Please check back here as office hours and locations may change.
