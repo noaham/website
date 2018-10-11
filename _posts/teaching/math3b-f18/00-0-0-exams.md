@@ -21,7 +21,9 @@ __Calculators:__ You may use a non-programmable, non-graphing calculator in exam
 __Study:__ Here I will post some rough study guides and practice exams which might aid your study.
 
 
-<!-- - [Midterm 1 practice](midterm1-practice.pdf) ([solutions](midterm1-practice-sols.pdf)) -->
+- [Midterm 1 practice](midterm1-practice1.pdf) ([solutions](midterm1-practice1-solutions.pdf))
+- [Midterm 2 practice](midterm1-practice2.pdf) ([solutions](midterm1-practice2-solutions.pdf))
+- [Midterm 3 practice](midterm1-practice3.pdf) ([solutions](midterm1-practice3-solutions.pdf))
 <!-- - [Midterm 2 practice 1](midterm2-practice1.pdf) ([solutions](midterm2-practice1-solutions.pdf)) -->
 <!-- - [Midterm 2 practice 2](midterm2-practice2.pdf) ([solutions](midterm2-practice2-solutions.pdf)) -->
 <!-- - [Final practice 1](final-practice1.pdf) ([solutions](final-practice1-solutions.pdf)) -->
