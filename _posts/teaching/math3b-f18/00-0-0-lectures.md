@@ -19,6 +19,7 @@ In addition, the lectures will be recorded and videos will be available on Bruin
 - [Lecture 5][]: More optimization examples. 
 - [Lecture 6][]: Differential equations, antiderivatives and slope fields.
 - [Lecture 7][]: The area under a curve and the integral.
+- [Lecture 8][]: The fundamental theorem of calculus.
 
 
 [Lecture 1]: lectures/lect1.pdf
