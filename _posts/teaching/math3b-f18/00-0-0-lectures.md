@@ -21,12 +21,17 @@ In addition, the lectures will be recorded and videos will be available on Bruin
 - [Lecture 7][]: The area under a curve and the integral.
 - [Lecture 8][]: The fundamental theorem of calculus.
 - [Lecture 9][]: Integration by substitution.
-- [Lecture 10][]: Accumulated change using Riemann sums.
+- [Lecture 10][]: Review.
 - [Lecture 11][]: Accumulated change using Riemann sums.
 - [Lecture 12][]: Accumulated change using Riemann sums.
-- [Lecture 13][]: Long division and partial fractions
-- [Lecture 14][]: More partial fractions and differential equations.
-
+- [Lecture 13][]: Accumulated change using Riemann sums.
+- [Lecture 14][]: Long division and partial fractions.
+- [Lecture 15][]: More partial fractions and differential equations.
+- [Lecture 16][]: Modelling using differential equations.
+- [Lecture 17][]: Separation of variables.
+- [Lecture 18][]: Linear models.
+- [Lecture 19][]: More linear models and slope fields.
+- [Lecture 20][]: Review.
 
 [Lecture 1]: lectures/lect1.pdf
 [Lecture 2]: lectures/lect2.pdf

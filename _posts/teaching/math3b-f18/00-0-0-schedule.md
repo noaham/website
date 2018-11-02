@@ -74,7 +74,7 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
             <td align="right">6.</td>
             <td align="left"><span class="right">11/5</span><span class="left"><b>16</b></span><br><em>6.1</em></td>
             <td align="left"><span class="right">11/6</span><span class="left"><b></b></span><br></td>
-            <td align="left"><span class="right">11/7</span><span class="left"><b>17</b></span><br><em>6.2</em> <span class="hw">HW 3</span></td>
+            <td align="left"><span class="right">11/7</span><span class="left"><b>17</b></span><br><em>6.2</em> </td>
             <td align="left"><span class="right">11/8</span><span class="left"><b></b></span><br></td>
             <td align="left"><span class="right">11/9</span><span class="left"><b>18</b></span><br><em>6.2</em> <span class="hw">HW 3</span></td>
         </tr>
