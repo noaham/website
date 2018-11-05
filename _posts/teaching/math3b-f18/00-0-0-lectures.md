@@ -33,6 +33,8 @@ In addition, the lectures will be recorded and videos will be available on Bruin
 - [Lecture 19][]: More linear models and slope fields.
 - [Lecture 20][]: Review.
 
+[geogebra](https://www.geogebra.org/m/Rn8pX4ku)
+
 [Lecture 1]: lectures/lect1.pdf
 [Lecture 2]: lectures/lect2.pdf
 [Lecture 3]: lectures/lect3.pdf
