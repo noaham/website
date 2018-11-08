@@ -20,7 +20,7 @@ In weeks where no homework is collected a short quiz will be conducted in the di
 - [Problem set 4][ps4] ([solutions][ps4s]) (HW 5, 8)
 - [Problem set 5][ps5] ([solutions][ps5s]) 
 - [Problem set 6][ps6] (HW 3, 7)
-<!-- - [Problem set 7][ps7] -->
+- [Problem set 7][ps7]
 <!-- - [Problem set 8][ps8] -->
 <!-- - [Problem set 9][ps9] -->
 <!-- - [Problem set 10][ps10] -->
