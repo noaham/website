@@ -11,6 +11,8 @@ weight: 300
 
 Here is a (incomplete) list of the talks I have given.
 
+Apr | 2018 | [UC Davis Algebra and discrete math seminar][ucd],
+    |      | *Symmetries of Kazhdan-Lusztig cells.*
 Apr | 2018 | [UCLA Algebra seminar][ucla],
     |      | *A moduli of approaches to the representation theory of the symmetric groups.*
 Nov | 2017 | [AMS Western Sectional meeting][AMSWest], 
@@ -43,7 +45,7 @@ Sep | 2014 | [Geometry club, Edinburgh][GeoClub],
 Sep | 2013 | [Geometry club, Edinburgh][GeoClub],
     |      | *Invariants of knots from representation theory.*
 
-
+[ucd]: https://www.math.ucdavis.edu/research/seminars/?type=6&when=past
 [ucla]: https://secure.math.ucla.edu/seminars/show_quarter.php?t=1537555027&type=Algebra&id=&tba=
 [Kolnalg]: http://www.mi.uni-koeln.de/algebra/seminars/
 [MPIOber]: https://www.mpim-bonn.mpg.de/node/158
