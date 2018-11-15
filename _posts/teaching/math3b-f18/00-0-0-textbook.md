@@ -15,4 +15,7 @@ Owning a copy of the textbook will be very helpful and is recommended however yo
 
 [Additional notes on partial fractions](./partial-fractions.pdf)
 
+[Geogebra app for slope fields][geogebra]
+
+[geogebra]: https://www.geogebra.org/m/Rn8pX4ku
 [book]: http://www.wiley.com/WileyCDA/Section/id-822944.html
