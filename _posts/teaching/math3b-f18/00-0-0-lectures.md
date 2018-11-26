@@ -32,7 +32,7 @@ In addition, the lectures will be recorded and videos will be available on Bruin
 - [Lecture 18][]: Linear models.
 - [Lecture 19][]: More linear models and slope fields.
 - [Lecture 20][]: Review.
-
+- [Lecture 21][]: Eulers method
 
 [Lecture 1]: lectures/lect1.pdf
 [Lecture 2]: lectures/lect2.pdf
