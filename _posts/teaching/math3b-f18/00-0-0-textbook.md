@@ -16,6 +16,7 @@ Owning a copy of the textbook will be very helpful and is recommended however yo
 [Additional notes on partial fractions](./partial-fractions.pdf)
 
 [Geogebra app for slope fields][geogebra-slope]
+
 [Geogebra app for Eulers method][geogebra-euler]
 
 [geogebra-slope]: https://www.geogebra.org/m/Rn8pX4ku
