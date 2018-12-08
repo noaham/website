@@ -23,7 +23,7 @@ In weeks where no homework is collected a short quiz will be conducted in the di
 - [Problem set 7][ps7] ([solutions][ps7s]) 
 - [Problem set 8][ps8] ([solutions][ps8s]) (HW 3, 4)
 - [Problem set 9][ps9] ([solutions][ps9s]) 
-- [Problem set 10][ps10] (HW 3)
+- [Problem set 10][ps10] ([solutions][ps10s]) (HW 3)
 
 [ps1]: ps/ps1.pdf
 [ps2]: ps/ps2.pdf
