@@ -10,12 +10,13 @@ weight: 500
 
 Currently (Fall 2018) I am the instructor for
 
+* [Math 115A][]
 * [Math 3B][]
+
 
 
 Upcoming teaching duties are
 
-[Math 3B][]                          | (Fall 2018)
 [Math 3B][]                          | (Winter 2019)
 [Math 115A][]                        |
 [Math 115A][]                        | (Spring 2019)
