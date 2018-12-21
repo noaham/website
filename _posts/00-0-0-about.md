@@ -12,8 +12,8 @@ I am a postdoc in the Department of Mathematics at the University of California,
 
 I am primarily interested in representation theory. In particular Lie theory and the geometry and combinatorics that is associated with it. See my [research](research) page for more info on some of the things I am thinking about.
 
-My [CV][cv].
-My [research statement][rs]
+- My [CV][cv].
+- My [research statement][rs].
 
 [Michael Wemyss]: http://www.maths.gla.ac.uk/~mwemyss/
 [Iain Gordon]: http://www.maths.ed.ac.uk/~igordon
