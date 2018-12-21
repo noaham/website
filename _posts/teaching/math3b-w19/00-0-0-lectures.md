@@ -3,7 +3,7 @@ layout: default
 title: Lecture notes
 short_title: Lecture notes
 date: 2016-09-01 12:00
-tags: teaching/math3b-f18
+tags: teaching/math3b-w19
 pg: Math 3B
 weight: 350
 ---
