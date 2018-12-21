@@ -14,16 +14,16 @@ Every second week (as indicated in the class schedule below) a small number ques
 
 In weeks where no homework is collected a short quiz will be conducted in the discussion sessions. Questions on the quiz will be drawn from the problem set (or will be very similar to one of these questions). The lowest 4 scores out of all homeworks and quizzes will be dropped. The homework and quizzes will count for a total of 10% of your grade.
 
-- [Problem set 1][ps1] ([solutions][ps1s])
-- [Problem set 2][ps2] ([solutions][ps2s]) (HW 8,9)
-- [Problem set 3][ps3] ([solutions][ps3s])
-- [Problem set 4][ps4] ([solutions][ps4s]) (HW 5, 8)
-- [Problem set 5][ps5] ([solutions][ps5s]) 
-- [Problem set 6][ps6] ([solutions][ps6s]) (HW 3, 7)
-- [Problem set 7][ps7] ([solutions][ps7s]) 
-- [Problem set 8][ps8] ([solutions][ps8s]) (HW 3, 4)
-- [Problem set 9][ps9] ([solutions][ps9s]) 
-- [Problem set 10][ps10] ([solutions][ps10s]) (HW 3)
+- [Problem set 1][ps1] 
+- [Problem set 2][ps2]  (HW 8,9)
+- [Problem set 3][ps3] 
+- [Problem set 4][ps4]  (HW 5, 8)
+- [Problem set 5][ps5]  
+- [Problem set 6][ps6]  (HW 3, 7)
+- [Problem set 7][ps7]  
+- [Problem set 8][ps8]  (HW 3, 4)
+- [Problem set 9][ps9]  
+- [Problem set 10][ps10]  (HW 3)
 
 [ps1]: ps/ps1.pdf
 [ps2]: ps/ps2.pdf
