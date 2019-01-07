@@ -12,7 +12,7 @@ Here you will find links to the lecture notes and slides as they become availabl
 
 In addition, the lectures will be recorded and videos will be available on BruinCast (subject to my request being approved). I do not control the recordings, so any issue regarding unavailable videos or quality issues should be directed to the BruinCast team.
 
-<!-- - [Lecture 1][]: Review and limits and differentiation. -->
+- [Lecture 1][]: Review and limits and differentiation.
 <!-- - [Lecture 2][]: Introduction to graphing.  -->
 <!-- - [Lecture 3][]: More graphing and slanted asymptotes.  -->
 <!-- - [Lecture 4][]: Optimization, maximums and minimums.  -->
