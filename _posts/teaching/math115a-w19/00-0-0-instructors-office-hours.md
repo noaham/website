@@ -14,7 +14,7 @@ weight: 100
 | _Office hours:_ | _MS 6304, Monday, Friday 10-11am, Wednesday 2-3pm_                                             |
 |                 |                                                                                            |
 | __TA:__         | Christopher Shriver (<a href="mailto:cshriver@ucla.edu">cshriver@ucla.edu</a>) |
-| _Office hours:_ | _TBA, TBA_                                                                             |
+| _Office hours:_ | _MS 2961, Tuesday 10-11am, Thursday 12-1pm_                                                |
 
 
 Please check back here as office hours and locations may change.
