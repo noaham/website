@@ -14,9 +14,9 @@ weight: 100
 | _Office hours:_ | _MS 6304, Monday, Friday 10-11am, Wednesday 2-3pm_                     |
 |                 |                                                                                     |
 | __TA:__         | Louis Esser (<a href="mailto:esserl@math.ucla.edu">esserl@math.ucla.edu</a>)  |
-| _Office hours:_ | _TBA, TBA_                                                     |
+| _Office hours:_ | _MS 2901, Thursday 11am-12pm_                                                     |
 |                 | Matthew Gherman (<a href="mailto:mgherman@math.ucla.edu">mgherman@math.ucla.edu</a>) |
-|                 | _TBA, TBA_                                                     |
+|                 | _MS 2951, Wednesday 3-4 pm, Thursday 1-2 pm_                                                     |
 
 
 Please check back here as office hours and locations may change.
