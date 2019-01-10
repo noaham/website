@@ -14,7 +14,7 @@ In addition, the lectures will be recorded and videos will be available on Bruin
 
 - [Lecture 1][]: Review and limits and differentiation.
 - [Lecture 2][]: Introduction to graphing.
-<!-- - [Lecture 3][]: More graphing and slanted asymptotes.  -->
+- [Lecture 3][]: More graphing and slanted asymptotes.
 <!-- - [Lecture 4][]: Optimization, maximums and minimums.  -->
 <!-- - [Lecture 5][]: More optimization examples.  -->
 <!-- - [Lecture 6][]: Differential equations, antiderivatives and slope fields. -->
