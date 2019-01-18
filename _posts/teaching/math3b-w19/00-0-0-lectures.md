@@ -17,8 +17,8 @@ In addition, the lectures will be recorded and videos will be available on Bruin
 - [Lecture 3][]: More graphing and slanted asymptotes.
 - [Lecture 4][]: Optimization, maximums and minimums.
 - [Lecture 5][]: More optimization examples.
-- [Lecture 6][]: Differential equations, antiderivatives and slope fields.
-<!-- - [Lecture 7][]: The area under a curve and the integral. -->
+- Lecture 6: More optimization examples.
+<!-- - [Lecture 7][]:  Differential equations, antiderivatives and slope fields.,The area under a curve and the integral. -->
 <!-- - [Lecture 8][]: The fundamental theorem of calculus. -->
 <!-- - [Lecture 9][]: Integration by substitution. -->
 <!-- - [Lecture 10][]: Review. -->
