@@ -37,3 +37,14 @@ In weeks 3, 7, 9 a quiz will be conducted in the Thursday discussion section. Qu
 [ps8]: ps/ps8.pdf
 [ps9]: ps/ps9.pdf
 [ps10]: ps/ps10.pdf
+
+[ps1s]: ps/ps1s.pdf
+[ps2s]: ps/ps2s.pdf
+[ps3s]: ps/ps3s.pdf
+[ps4s]: ps/ps4s.pdf
+[ps5s]: ps/ps5s.pdf
+[ps6s]: ps/ps6s.pdf
+[ps7s]: ps/ps7s.pdf
+[ps8s]: ps/ps8s.pdf
+[ps9s]: ps/ps9s.pdf
+[ps10s]: ps/ps10s.pdf
