@@ -17,8 +17,11 @@ Owning a copy of the textbook will be very helpful and is recommended however yo
 
 [Geogebra app for slope fields][geogebra-slope]
 
+[Geogebra app for Riemann sums][geogebra-riemann]
+
 [Geogebra app for Eulers method][geogebra-euler]
 
 [geogebra-slope]: https://www.geogebra.org/m/Rn8pX4ku
+[geogebra-riemann]: https://ggbm.at/fu9vRvCW
 [geogebra-euler]: https://ggbm.at/SGtVF4rc
 [book]: http://www.wiley.com/WileyCDA/Section/id-822944.html
