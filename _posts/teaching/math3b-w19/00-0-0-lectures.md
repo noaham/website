@@ -18,9 +18,9 @@ In addition, the lectures will be recorded and videos will be available on Bruin
 - [Lecture 4][]: Optimization, maximums and minimums.
 - [Lecture 5][]: More optimization examples.
 - Lecture 6: More optimization examples.
-- [Lecture 7][]:  Antiderivatives and slope fields. Integration by substitution.
-<!-- - [Lecture 8][]: Review. -->
-<!-- - [Lecture 9][]: The area under a curve and the integral. The fundamental theorem of calculus. -->
+- [Lecture 7][]: Antiderivatives and slope fields. Integration by substitution.
+- [Lecture 8][]: Integration by parts and review.
+- [Lecture 9][]: The area under a curve and the integral. The fundamental theorem of calculus.
 <!-- - [Lecture 10][]:  -->
 <!-- - [Lecture 11][]: Accumulated change using Riemann sums. -->
 <!-- - [Lecture 12][]: Accumulated change using Riemann sums. -->
