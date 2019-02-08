@@ -22,9 +22,9 @@ In addition, the lectures will be recorded and videos will be available on Bruin
 - [Lecture 8][]: Integration by parts and review.
 - [Lecture 9][]: The area under a curve and the integral. The fundamental theorem of calculus.
 - [Lecture 10][]: Riemann sums and the fundamental theorem of calculus.
-<!-- - [Lecture 11][]: Accumulated change using Riemann sums. -->
-<!-- - [Lecture 12][]: Accumulated change using Riemann sums. -->
-<!-- - [Lecture 13][]: Accumulated change using Riemann sums. -->
+- Lecture 11: Accumulated change using Riemann sums.
+- Lecture 12: More accumulated change.
+- [Lecture 13][]: More accumulated change and Long division and partial fractions.
 <!-- - [Lecture 14][]: Long division and partial fractions. -->
 <!-- - [Lecture 15][]: More partial fractions and differential equations. -->
 <!-- - [Lecture 16][]: Modelling using differential equations. -->
