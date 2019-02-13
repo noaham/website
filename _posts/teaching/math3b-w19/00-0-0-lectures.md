@@ -25,8 +25,8 @@ In addition, the lectures will be recorded and videos will be available on Bruin
 - Lecture 11: Accumulated change using Riemann sums.
 - Lecture 12: More accumulated change.
 - [Lecture 13][]: More accumulated change and Long division and partial fractions.
-<!-- - [Lecture 14][]: Long division and partial fractions. -->
-<!-- - [Lecture 15][]: More partial fractions and differential equations. -->
+- [Lecture 14][]: Long division and partial fractions.
+- [Lecture 15][]: More partial fractions and differential equations.
 <!-- - [Lecture 16][]: Modelling using differential equations. -->
 <!-- - [Lecture 17][]: Separation of variables. -->
 <!-- - [Lecture 18][]: Linear models. -->
