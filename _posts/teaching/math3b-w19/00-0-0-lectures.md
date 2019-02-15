@@ -27,7 +27,7 @@ In addition, the lectures will be recorded and videos will be available on Bruin
 - [Lecture 13][]: More accumulated change and Long division and partial fractions.
 - [Lecture 14][]: Long division and partial fractions.
 - [Lecture 15][]: More partial fractions and differential equations.
-<!-- - [Lecture 16][]: Modelling using differential equations. -->
+- [Lecture 16][]: Modelling using differential equations.
 <!-- - [Lecture 17][]: Separation of variables. -->
 <!-- - [Lecture 18][]: Linear models. -->
 <!-- - [Lecture 19][]: More linear models and slope fields. -->
