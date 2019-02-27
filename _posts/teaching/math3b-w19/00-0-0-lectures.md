@@ -28,13 +28,12 @@ In addition, the lectures will be recorded and videos will be available on Bruin
 - [Lecture 14][]: Long division and partial fractions.
 - [Lecture 15][]: More partial fractions and differential equations.
 - [Lecture 16][]: Modelling using differential equations.
-<!-- - [Lecture 17][]: Separation of variables. -->
-<!-- - [Lecture 18][]: Linear models. -->
-<!-- - [Lecture 19][]: More linear models and slope fields. -->
-<!-- - [Lecture 20][]: Review. -->
-<!-- - [Lecture 21][]: Eulers method. -->
-<!-- - [Lecture 22][]: Autonomous systems and phase lines. -->
-<!-- - [Lecture 23][]: Bifurcation diagrams. -->
+- [Lecture 17][]: Separation of variables and linear models.
+- [Lecture 18][]: Linear models and Review.
+- [Lecture 19][]: More linear models and slope fields.
+<!-- - [Lecture 20][]: Eulers method. -->
+<!-- - [Lecture 21][]: Autonomous systems and phase lines. -->
+<!-- - [Lecture 22][]: Bifurcation diagrams. -->
 
 [Lecture 1]: lectures/lect1.pdf
 [Lecture 2]: lectures/lect2.pdf
