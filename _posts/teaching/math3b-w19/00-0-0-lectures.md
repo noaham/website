@@ -31,7 +31,7 @@ In addition, the lectures will be recorded and videos will be available on Bruin
 - [Lecture 17][]: Separation of variables and linear models.
 - [Lecture 18][]: Linear models and Review.
 - [Lecture 19][]: More linear models and slope fields.
-<!-- - [Lecture 20][]: Eulers method. -->
+- [Lecture 20][]: Eulers method.
 <!-- - [Lecture 21][]: Autonomous systems and phase lines. -->
 <!-- - [Lecture 22][]: Bifurcation diagrams. -->
 
