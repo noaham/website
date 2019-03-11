@@ -21,9 +21,9 @@ In weeks where no homework is collected a short quiz will be conducted in the di
 - [Problem set 5][ps5] ([solutions][ps5s])
 - [Problem set 6][ps6] ([solutions][ps6s]) (HW 7, 10(l) from PS 5 and 5(l) from PS 6)
 - [Problem set 7][ps7] ([solutions][ps7s])
-- [Problem set 8][ps8] (HW 4, 5)
-- [Problem set 9][ps9]
-- [Problem set 10][ps10] (HW 1, 2(e) from PS 9 and 2 from PS 10)
+- [Problem set 8][ps8] ([solutions][ps8s]) (HW 4, 5)
+- [Problem set 9][ps9] ([solutions][ps9s])
+- [Problem set 10][ps10] ([solutions][ps10s]) (HW 1, 2(e) from PS 9 and 2 from PS 10)
 
 [ps1]: ps/ps1.pdf
 [ps2]: ps/ps2.pdf
