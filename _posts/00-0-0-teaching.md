@@ -11,24 +11,22 @@ weight: 500
 Currently (Fall 2018) I am the instructor for
 
 * [Math 115A][]
-* [Math 3B][]
-
 
 
 Upcoming teaching duties are
 
-[Math 3B][]                          | (Winter 2019)
-[Math 115A][]                        |
 [Math 115A][]                        | (Spring 2019)
 
 Previous teaching experience at UCLA
 
-[Math 115A][]                        | (Winter 2018)
+[Math 115A][]                        | (Winter 2019)
+                                     | (Winter 2018)
 [Math 170A][]                        | (Fall 2017)
 [Math 31B][]                         | (Spring 2017)
 [Math 32B][]                         | (Spring 2018)
                                      | (Winter 2017)
-[Math 3B][]                          | (Fall 2018)
+[Math 3B][]                          | (Winter 2019)
+                                     | (Fall 2018)
                                      | (Fall 2017) 
                                      | (Winter 2017) 
                                      | (Fall 2016) 
