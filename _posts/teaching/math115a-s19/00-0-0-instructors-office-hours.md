@@ -13,7 +13,7 @@ weight: 100
 | __Instructor:__ | Noah White (<a href="mailto:noah@math.ucla.edu">noah@math.ucla.edu</a>)                    |
 | _Office hours:_ | _MS 6304, Monday, Wednesday, Friday 11am-12pm_                                             |
 |                 |                                                                                            |
-| __TA:__         | Mengyuan (Jeanie) Ding (<a href="mailto:myding@math.ucla.edu">myding@math.ucla.edu</a>) |
+| __TA:__         | Mengyuan (Jeanine) Ding (<a href="mailto:mengyuanding@ucla.edu">mengyuanding@ucla.edu</a>) |
 | _Office hours:_ | _TBA, TBA_                                                |
 
 
