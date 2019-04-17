@@ -29,13 +29,13 @@ In weeks 1, 3, 5, 7, 9 a quiz will be conducted in the Thursday discussion secti
 [ps9]: ps/ps9.pdf
 [ps10]: ps/ps10.pdf
 
-[ps1s]: ps/ps1s.pdf
-[ps2s]: ps/ps2s.pdf
-[ps3s]: ps/ps3s.pdf
-[ps4s]: ps/ps4s.pdf
-[ps5s]: ps/ps5s.pdf
-[ps6s]: ps/ps6s.pdf
-[ps7s]: ps/ps7s.pdf
-[ps8s]: ps/ps8s.pdf
-[ps9s]: ps/ps9s.pdf
-[ps10s]: ps/ps10s.pdf
+[ps1s]: ps/ps1-solutions.pdf
+[ps2s]: ps/ps2-solutions.pdf
+[ps3s]: ps/ps3-solutions.pdf
+[ps4s]: ps/ps4-solutions.pdf
+[ps5s]: ps/ps5-solutions.pdf
+[ps6s]: ps/ps6-solutions.pdf
+[ps7s]: ps/ps7-solutions.pdf
+[ps8s]: ps/ps8-solutions.pdf
+[ps9s]: ps/ps9-solutions.pdf
+[ps10s]: ps/ps10-solutions.pdf
