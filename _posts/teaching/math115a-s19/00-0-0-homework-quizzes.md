@@ -20,8 +20,9 @@ In weeks 1, 3, 5, 7, 9 a quiz will be conducted in the Thursday discussion secti
 - [Problem set 4][ps4] ([solutions][ps4s]) (HW 3, 4b, 6b-d)
 - [Problem set 5][ps5] ([solutions][ps5s])
 - [Problem set 6][ps6] ([solutions][ps6s]) (HW 2 and 5)
-- [Problem set 7][ps7]
-- [Problem set 8][ps8] (HW 3, 5)
+- [Problem set 7][ps7] ([solutions][ps7s])
+- [Problem set 8][ps8] ([solutions][ps8s]) (HW 3, 5)
+- [Problem set 9][ps9] (HW 2, 3)
 
 [ps1]: ps/ps1.pdf
 [ps2]: ps/ps2.pdf
