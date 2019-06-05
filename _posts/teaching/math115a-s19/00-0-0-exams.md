@@ -28,3 +28,4 @@ __Study:__ Here I will post some practice exams which might aid your study.
 - [Midterm 2 practice 3](midterm2-practice3.pdf) ([solutions](midterm2-practice3-solutions.pdf))
 - [Final practice 1](final-practice1.pdf) ([solutions](final-practice1-solutions.pdf))
 - [Final practice 2](final-practice2.pdf) ([solutions](final-practice2-solutions.pdf))
+- [Final practice 3](final-practice3.pdf) ([solutions](final-practice3-solutions.pdf))
