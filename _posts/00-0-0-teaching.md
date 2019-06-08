@@ -15,11 +15,19 @@ Currently (Fall 2018) I am the instructor for
 
 Upcoming teaching duties are
 
+[Math 229B][]                        | (Winter 2020)
 [Math 115A][]                        | (Spring 2019)
+                                     | (Fall 2019)   
+                                     | (Winter 2020) 
+                                     | (Spring 2020) 
+[Math 32B][]                         | (Fall 2019)
+                                     | (Spring 2019)
+
 
 Previous teaching experience at UCLA
 
-[Math 115A][]                        | (Winter 2019)
+[Math 115A][]                        | (Spring 2019)
+                                     | (Winter 2019)
                                      | (Winter 2018)
 [Math 170A][]                        | (Fall 2017)
 [Math 31B][]                         | (Spring 2017)
@@ -75,3 +83,5 @@ Lecturer/tutor for [Mathematics bridging course][] 	| (Summer, 2011/12)
 [Math 31B]: https://www.math.ucla.edu/ugrad/courses/math/31B
 [Math 170A]: http://www.math.ucla.edu/ugrad/courses/math/170A
 [Math 115A]: http://www.math.ucla.edu/ugrad/courses/math/115A
+[Math 229B]: http://www.math.ucla.edu/grad/courses/math/229ABC
+ 
