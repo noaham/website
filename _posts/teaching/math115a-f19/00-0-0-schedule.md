@@ -106,7 +106,7 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
             <td align="right">10.</td>
             <td align="left"><span class="right">12/2</span><span class="left"><b>25</b></span><br><em>6.4</em></td>
             <td align="left"><span class="right">12/3</span><span class="left"><b>  </b></span><br></td>
-            <td align="left"><span class="right">12/4</span><span class="left"><b>26</b></span><br><em>6.4</em><span class="hw">HW 5</span></td>
+            <td align="left"><span class="right">12/4</span><span class="left"><b>26</b></span><br><em>6.4</em> <span class="hw">HW 5</span></td>
             <td align="left"><span class="right">12/5</span><span class="left"><b>  </b></span><br></td>
             <td align="left"><span class="right">12/6</span><span class="left"><b>27</b></span><br><em>Review</em></td>
         </tr>
