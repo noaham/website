@@ -15,8 +15,8 @@ weight: 100
 |                 |                                                                                     |
 | __TA:__         | Ryan Wallace (<a href="mailto:rcwallace@math.ucla.edu">rcwallace@math.ucla.edu</a>)  |
 | _Office hours:_ | _TBA, TBA_                                                     |
-|                 | Nicholas Boschert (<a href="mailto:nickboschert@math.ucla.edu">nickboschert@math.ucla.edu</a>) |
-|                 | _TBA, TBA_                                                     |
+|                 | Nick Boschert (<a href="mailto:nickboschert@math.ucla.edu">nickboschert@math.ucla.edu</a>) |
+|                 | _MS 2344, 1-2pm Thursday_                                                     |
 |                 | Zachary Smith (<a href="mailto:zbsmith@math.ucla.edu">zbsmith@math.ucla.edu</a>) |
 |                 | _TBA, TBA_                                                                |
 

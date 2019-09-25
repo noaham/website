@@ -13,7 +13,7 @@ weight: 100
 | __Instructor:__ | Noah White (<a href="mailto:noah@math.ucla.edu">noah@math.ucla.edu</a>)                    |
 | _Office hours:_ | _MS 6304, 10-11am Monday, Wednesday, Friday_                                             |
 |                 |                                                                                            |
-| __TA:__         | Timothy Smits (<a href="mailto:tsmits@ucla.edu">tsmits@ucla.edu</a>) |
+| __TA:__         | Tim Smits (<a href="mailto:tsmits@math.ucla.edu">tsmits@math.ucla.edu</a>) |
 | _Office hours:_ | _TBA, TBA_                                                |
 
 
