@@ -15,7 +15,7 @@ In weeks 2,4,6,8,10 (as indicated in the class schedule below) a small number qu
 In weeks 1, 3, 5, 7, 9 a quiz will be conducted in the Thursday discussion section. Questions on the quiz will be very similar to (or the same as) one of the questions on the problem set. The lowest 4 scores out of all homeworks and quizzes will be dropped. The homework and quizzes will count for a total of 10% of your grade.
 
 - [Problem set 1][ps1] <!-- ([solutions][ps1s]) -->
-- [Problem set 2][ps2] ([solutions][ps2s]) (HW: 3 and 4)
+- [Problem set 2][ps2] <!-- ([solutions][ps2s]) --> (HW: 3 and 4)
 <!-- - [Problem set 3][ps3] ([solutions][ps3s]) -->
 <!-- - [Problem set 4][ps4] ([solutions][ps4s]) (HW 3, 4b, 6b-d) -->
 <!-- - [Problem set 5][ps5] ([solutions][ps5s]) -->
