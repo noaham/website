@@ -14,7 +14,7 @@ weight: 100
 | _Office hours:_ | _MS 6304, 10-11am Monday, Wednesday, Friday_                                             |
 |                 |                                                                                            |
 | __TA:__         | Tim Smits (<a href="mailto:tsmits@math.ucla.edu">tsmits@math.ucla.edu</a>) |
-| _Office hours:_ | _TBA, TBA_                                                |
+| _Office hours:_ | _MS 2951, 11:30am-12:30pm Tuesday, Thursday_                                                |
 
 
 Please check back here as office hours and locations may change. Since I will be teaching two classes this quarter, I will be prioritising 32B on Mondays and 115A on Wednesdays.

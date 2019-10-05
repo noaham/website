@@ -14,11 +14,11 @@ weight: 100
 | _Office hours:_ | _MS 6304, 10-11am Monday, Wednesday, Friday_                     |
 |                 |                                                                                     |
 | __TA:__         | Ryan Wallace (<a href="mailto:rcwallace@math.ucla.edu">rcwallace@math.ucla.edu</a>)  |
-| _Office hours:_ | _TBA, TBA_                                                     |
+| _Office hours:_ | _MS 2361, 3-4pm Thursday_                                                     |
 |                 | Nick Boschert (<a href="mailto:nickboschert@math.ucla.edu">nickboschert@math.ucla.edu</a>) |
 |                 | _MS 2344, 1-2pm Thursday_                                                     |
 |                 | Zachary Smith (<a href="mailto:zbsmith@math.ucla.edu">zbsmith@math.ucla.edu</a>) |
-|                 | _TBA, TBA_                                                                |
+|                 | _MS 2350, 3-4pm Monday_                                                                |
 
 
 Please check back here as office hours and locations may change. Since I will be teaching two classes this quarter, I will be prioritising 32B on Mondays and 115A on Wednesdays.
