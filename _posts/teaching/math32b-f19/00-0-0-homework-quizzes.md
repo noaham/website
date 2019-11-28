@@ -22,8 +22,8 @@ In weeks where no homework is collected a short quiz will be conducted in the di
 - [Problem set 6][ps6] (HW: 17.2.24, 17.2.63, 17.2.67)
 - [Problem set 7][ps7]
 - [Problem set 8][ps8] (HW: 17.4.41, 17.5.22)
-<!-- - [Problem set 9][ps9] -->
-<!-- - [Problem set 10][ps10] -->
+- [Problem set 9][ps9] (HW: 18.1.24, 18.1.36, 18.2.19)
+- [Problem set 10][ps10]
 
 [ps1]: ps/ps1.pdf
 [ps2]: ps/ps2.pdf
