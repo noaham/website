@@ -12,7 +12,7 @@ There will be two midterms and a final exam.
 
 * __Midterm 1:__ 2-2:50pm, KNSY PV 1220B, Monday, 21 October, 2019
 * __Midterm 2:__ 2-2:50pm, KNSY PV 1220B, Monday, 18 November, 2019
-* __Final Exam:__ 8am-11am Wednesday, 11 December, 2019
+* __Final Exam:__ 8am-11am, Moore 100, Wednesday, 11 December, 2019
 
 __Cheatsheets:__ For each exam, students may bring a cheat sheet. Each student must prepare their own handwritten cheat sheet. For the midterms, the cheat sheet may consist of one side of half a standard (A4 or letter) sheet of paper (i.e. A5 or letter folded in half lengthways). For the final, the cheat sheet may consist of one side of a standard sheet of paper. Cheatsheets that do not meet these requirements will be confiscated at the beginning of the exam.
 
