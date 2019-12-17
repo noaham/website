@@ -12,6 +12,8 @@ I am a postdoc in the Department of Mathematics at the University of California,
 
 I am primarily interested in representation theory. In particular Lie theory and the geometry and combinatorics that is associated with it. See my [research](research) page for more info on some of the things I am thinking about.
 
+I am organising a representation theory conference in Los Angeles June 2020. Check back soon for details!
+
 - My [CV][cv].
 - My [research statement][rs].
 
