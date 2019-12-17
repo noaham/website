@@ -9,8 +9,16 @@ weight: 300
 
 ---
 
-Here is a (incomplete) list of the talks I have given.
+Here is a list of the talks I have given.
 
+Feb | 2020 | [New Connections in Representation theory][mooloolaba2020]
+    |      | *TBA*
+Nov | 2019 | [University of Colorado, Boulder Algebraic Lie Theory seminar][boulder]
+    |      | *Particle collisions and RSK.*
+Nov | 2019 | [Special Session on Geometric Methods in Representation Theory][AMSWest19], 
+    |      | *Particle collisions and RSK.*
+Nov | 2019 | [Special Session on Geometry and Representation Theory of Quantum Algebras and Related Topics][AMSWest19], 
+    |      | *The cactus group and cell representations.*
 Apr | 2018 | [UC Davis Algebra and discrete math seminar][ucd],
     |      | *Symmetries of Kazhdan-Lusztig cells.*
 Apr | 2018 | [UCLA Algebra seminar][ucla],
@@ -45,6 +53,8 @@ Sep | 2014 | [Geometry club, Edinburgh][GeoClub],
 Sep | 2013 | [Geometry club, Edinburgh][GeoClub],
     |      | *Invariants of knots from representation theory.*
 
+
+[mooloolaba2020]: https://sites.google.com/view/mooloolaba2020/home
 [ucd]: https://www.math.ucdavis.edu/research/seminars/?type=6&when=past
 [ucla]: https://secure.math.ucla.edu/seminars/show_quarter.php?t=1537555027&type=Algebra&id=&tba=
 [Kolnalg]: http://www.mi.uni-koeln.de/algebra/seminars/
@@ -60,3 +70,5 @@ Sep | 2013 | [Geometry club, Edinburgh][GeoClub],
 [ARTIN]: http://hodge.maths.ed.ac.uk/tiki/ARTIN
 [Toronto]: https://seminars.math.toronto.edu/seminars/list/events.py/process?action=filter&seminars_to_show=geometric_representation_theory&past=True&expanded=False
 [AMSWest]: http://www.ams.org/meetings/sectional/2243_program_ss8.html#title
+[AMSWest19]: http://www.ams.org/meetings/sectional/2266_program.html
+[boulder]: https://math.colorado.edu/seminars/
