@@ -72,7 +72,7 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
         </tr>
         <tr class="even">
             <td align="right">7.</td>
-            <td align="left" class="hol"><em>President's Day<br>(no class)</em></td>
+            <td align="left" class="hol"><em>Pres Day<br>(no class)</em></td>
             <td align="left"><span class="right">2/18</span><span class="left"><b>  </b></span><br></td>
             <td align="left"><span class="right">2/19</span><span class="left"><b>17</b></span><br><em>5.2</em></td>
             <td align="left"><span class="right">2/20</span><span class="left"><b>  </b></span><br><span class="hw">Quiz 4</span></td>
