@@ -20,6 +20,6 @@ The cactus group and Lusztig's isomorphism (jt with R. Rouquier). In preparation
 Calogero-Moser cells in type A and the RSK correspondence (jt with A. Brochier and I. Gordon). In preparation.
 
 
-[labelling]: papers/labelling-schubert-intersections-in-the-grassmanian.pdf
+[labelling]: https://arxiv.org/abs/1912.10090
 [monodromy]: https://arxiv.org/abs/1511.04740
 [qCH]: https://arxiv.org/abs/1709.09149
