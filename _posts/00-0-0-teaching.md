@@ -8,30 +8,25 @@ pg: Teaching
 weight: 500
 ---
 
-Currently (Fall 2018) I am the instructor for
+Currently (Spring 2020) I am the instructor for
 
 * [Math 115A][]
-
-
-Upcoming teaching duties are
-
-[Math 229B][]                        | (Winter 2020)
-[Math 115A][]                        | (Spring 2019)
-                                     | (Fall 2019)   
-                                     | (Winter 2020) 
-                                     | (Spring 2020) 
-[Math 32B][]                         | (Fall 2019)
-                                     | (Spring 2019)
-
+* [Math 32B][]
 
 Previous teaching experience at UCLA
 
-[Math 115A][]                        | (Spring 2019)
+[Math 229B][]                        | (Winter 2020)
+[Math 115A][]                        | (Spring 2020)
+                                     | (Winter 2020)
+                                     | (Fall 2019) 
+                                     | (Spring 2019)
                                      | (Winter 2019)
                                      | (Winter 2018)
 [Math 170A][]                        | (Fall 2017)
 [Math 31B][]                         | (Spring 2017)
-[Math 32B][]                         | (Spring 2018)
+[Math 32B][]                         | (Spring 2020)
+                                     | (Fall 2020)
+                                     | (Spring 2018)
                                      | (Winter 2017)
 [Math 3B][]                          | (Winter 2019)
                                      | (Fall 2018)
