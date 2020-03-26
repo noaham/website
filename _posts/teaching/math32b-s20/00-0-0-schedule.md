@@ -84,8 +84,8 @@ This is a tentative schedule. Apart from the dates of exams, it may change. Numb
             <td align="left"><span class="right">11/13</span><span class="left"><b>19</b></span><br><em>17.5</em></td>
             <td align="left"><span class="right">11/14</span><span class="left"><b>  </b></span><br></td>
             <td align="left"><span class="right">11/15</span><span class="left"><b>20</b></span><br><em>Review</em></td>
+            <td align="left"><span class="right"></span><span class="left"><b></b></span><br><span class="exam">Midterm 2</span></td>
         </tr>
-        <td align="left"><span class="right"></span><span class="left"><b></b></span><br><span class="exam">Midterm 2</span></td>
         <tr class="odd">
             <td align="right">8.</td>
             <td align="left"><span class="right">11/18</span><span class="left"><b>21</b></span><br>18.1</td>
