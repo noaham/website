@@ -8,19 +8,18 @@ pg: Math 32B
 weight: 400
 ---
 
-This information will be updated as soon as it is available.
 
-<!-- There will be two midterms and a final exam. -->
+There will be two midterms and a final exam.
 
-<!-- * __Midterm 1:__ 2-2:50pm, KNSY PV 1220B, Monday, 21 October, 2019 -->
-<!-- * __Midterm 2:__ 2-2:50pm, KNSY PV 1220B, Monday, 18 November, 2019 -->
-<!-- * __Final Exam:__ 8am-11am, Moore 100, Wednesday, 11 December, 2019 -->
+* __Midterm 1:__ Wednesday, 22 April 2020
+* __Midterm 2:__ Saturday/Sunday, 16/17 May 2020
+* __Final Exam:__ 7-9 June 2020
 
-<!-- __Cheatsheets:__ For each exam, students may bring a cheat sheet. Each student must prepare their own handwritten cheat sheet. For the midterms, the cheat sheet may consist of one side of half a standard (A4 or letter) sheet of paper (i.e. A5 or letter folded in half lengthways). For the final, the cheat sheet may consist of one side of a standard sheet of paper. Cheatsheets that do not meet these requirements will be confiscated at the beginning of the exam. -->
+__Format:__ Midterm 1 will (most likely) be a time limited exam with a wide window within which you can take the exam to accommodate differences in time zones. Midterm 2 and the Final will be take home exams.
 
-<!-- __Calculators:__ You may use a non-programmable, non-graphing, non-calculus capable calculator in exams. Calculators not meeting this specification will be confiscated. -->
+__Outside materials:__ Exams will be open book and you will be able to use resources you find on the internet. Solutions must be presented using your own words and copying your working from any source will not be tolerated. Exams will be graded based on your working rather than the numerical/symbolic answers.
 
-<!-- __Study:__ Here I will post some rough study guides and practice exams which might aid your study. -->
+__Study:__ Here I will post some rough study guides and practice exams which might aid your study.
 
 
 <!-- - [Midterm 1 practice](midterm1-practice1.pdf) ([solutions](midterm1-practice1-solutions.pdf)) -->
