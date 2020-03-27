@@ -8,13 +8,10 @@ pg: Math 115A
 weight: 300
 ---
 
-There will be a problem set assigned every week. Most of these will not be collected however it is strongly recommended that you complete it. Questions are drawn from the textbook.
+There will be a problem set assigned every week. These will not be collected however it is strongly recommended that you complete it.
 
-Throughout the quarter a number of homework assignments and quizzes will be assigned. Details of these will be available soon.
+In weeks 2, 6, 8, 10, a small number questions from the problem set will be assigned as homework and collected and graded. At the end of weeks 1,2,3,5,6,8,9 a short quiz will be conducted online (accommodations will be made for different timezones).
 
-<!-- In weeks 2,4,6,8,10 (as indicated in the class schedule below) a small number questions from the problem sets will be assigned as homework and collected and graded.  -->
-
-<!-- In weeks 1, 3, 5, 7, 9 a quiz will be conducted in the Thursday discussion section. Questions on the quiz will be very similar to (or the same as) one of the questions on the problem set. The lowest 4 scores out of all homeworks and quizzes will be dropped. The homework and quizzes will count for a total of 10% of your grade. -->
 
 - [Problem set 1][ps1] <!-- ([solutions][ps1s]) -->
 <!-- - [Problem set 2][ps2] <\!-- ([solutions][ps2s])  -\-> -->

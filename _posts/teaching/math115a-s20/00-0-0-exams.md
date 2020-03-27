@@ -8,19 +8,18 @@ pg: Math 115A
 weight: 400
 ---
 
-This information will be updated as soon as it is available.
+There will be one midterm and a final exam.
 
-<!-- There will be two midterms and a final exam. Apart from the exceptions mentioned below, only writing equipment will be allowed in exams. Exams must be written in pen. -->
+* __Midterm 1:__ Wednesday, 22 April 2020
+* __Midterm 2:__ Saturday/Sunday, 16/17 May 2020
+* __Final Exam:__ 7-9 June 2020
 
-<!-- * __Midterm 1:__ 8-8:50am, Wednesday 29 January -->
-<!-- * __Midterm 2:__ 8-8:50am, Wednesday 26 February -->
-<!-- * __Final Exam:__ 11:30am-2:30pm, Tuesday 17 March -->
+__Format:__ The midterms and the Final will be take home exams, with some component being time limited (accommodations will be available for varying timezones).
 
-<!-- __Cheatsheets:__ For each exam, students may bring a cheat sheet. Each student must prepare their own handwritten cheat sheet. For the midterms, the cheat sheet may consist of one side of half a standard (A4 or letter) sheet of paper (i.e. A5 or letter folded in half lengthways). For the final, the cheat sheet may consist of one side of a standard sheet of paper. Cheatsheets that do not meet these requirements will be confiscated at the beginning of the exam. -->
+__Exam conduct:__ Exams will be open book and you will be able to use resources you find on the internet. I aim to not make restrictions that I cannot enforce. Here are some things that I can enforce: solutions must be presented using your own words, copying your working from any source will not be tolerated, posting exam questions to third party websites is not allowed. Note that many of these websites work actively with universities of cases of academic dishonesty. Exams will be graded based on your working rather than the numerical/symbolic answers.
 
-<!-- __Calculators:__ You may use a non-programmable, non-graphing, non-calculus capable calculator in exams. Calculators not meeting this specification will be confiscated. -->
+__Study:__ Here I will post some rough study guides and practice exams which might aid your study.
 
-<!-- __Study:__ Here I will post some practice exams which might aid your study. -->
 
 <!-- - [Midterm 1 practice 1](midterm1-practice1.pdf) ([solutions](midterm1-practice1-solutions.pdf)) -->
 <!-- - [Midterm 1 practice 2](midterm1-practice2.pdf) ([solutions](midterm1-practice2-solutions.pdf)) -->

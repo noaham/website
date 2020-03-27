@@ -13,7 +13,7 @@ weight: 100
 | __Instructor:__ | Noah White (<a href="mailto:noah@math.ucla.edu">noah@math.ucla.edu</a>)             |
 | _Office hours:_ | _TBA_                     |
 |                 |                                                                                     |
-| __TA:__         | Ben Thompson (<a href="mailto:ezrabenthompson@math.ucla.edu">ezrabenthompson@math.ucla.edu</a>)  |
+| __TA:__         | Ezra Thompson (<a href="mailto:ezrabenthompson@math.ucla.edu">ezrabenthompson@math.ucla.edu</a>)  |
 | _Office hours:_ | _TBA_                                                     |
 |                 | Gyu Eun Lee (<a href="mailto:gyueun.lee@math.ucla.edu">gyueun.lee@math.ucla.edu</a>) |
 |                 | _TBA_                                                     |

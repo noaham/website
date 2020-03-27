@@ -8,16 +8,15 @@ pg: Math 32B
 weight: 400
 ---
 
-
 There will be two midterms and a final exam.
 
 * __Midterm 1:__ Wednesday, 22 April 2020
 * __Midterm 2:__ Saturday/Sunday, 16/17 May 2020
 * __Final Exam:__ 7-9 June 2020
 
-__Format:__ Midterm 1 will (most likely) be a time limited exam with a wide window within which you can take the exam to accommodate differences in time zones. Midterm 2 and the Final will be take home exams.
+__Format:__ The midterms and the Final will be take home exams, with some component being time limited (accommodations will be available for varying timezones).
 
-__Outside materials:__ Exams will be open book and you will be able to use resources you find on the internet. Solutions must be presented using your own words and copying your working from any source will not be tolerated. Exams will be graded based on your working rather than the numerical/symbolic answers.
+__Exam conduct:__ Exams will be open book and you will be able to use resources you find on the internet. I aim to not make restrictions that I cannot enforce. Here are some things that I can enforce: solutions must be presented using your own words, copying your working from any source will not be tolerated, posting exam questions to third party websites is not allowed. Note that many of these websites work actively with universities of cases of academic dishonesty. Exams will be graded based on your working rather than the numerical/symbolic answers.
 
 __Study:__ Here I will post some rough study guides and practice exams which might aid your study.
 
