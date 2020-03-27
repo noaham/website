@@ -10,7 +10,7 @@ published: true
 ---
 
 
-Your final grade will be calculated using the maximum of the following two grading schemes.
+Your final grade will be calculated using the maximum of the following two grading schemes. Raw scores will be adjusted to account for differences in difficulty between exams.
 
 Option 1:
 
