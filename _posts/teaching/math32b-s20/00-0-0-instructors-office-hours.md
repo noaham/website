@@ -18,7 +18,7 @@ weight: 100
 |                 | Gyu Eun Lee (<a href="mailto:gyueun.lee@math.ucla.edu">gyueun.lee@math.ucla.edu</a>) |
 |                 | _TBA_                                                     |
 |                 | Joseph Breen (<a href="mailto:josephbreen@math.ucla.edu">josephbreen@math.ucla.edu</a>) |
-|                 | _TBA_                                                                |
+|                 | _Monday 6-8pm, Wednesday 11am-1pm, Thursday 4-6pm_                                           |
 
 
 Please check back here as office hours and locations may change. 
