@@ -11,7 +11,7 @@ weight: 100
 
 
 | __Instructor:__ | Noah White (<a href="mailto:noah@math.ucla.edu">noah@math.ucla.edu</a>)             |
-| _Office hours:_ | _TBA_                     |
+| _Office hours:_ | _Monday 4-5pm, Thursday 10-11am_                     |
 |                 |                                                                                     |
 | __TA:__         | Ezra Thompson (<a href="mailto:ezrabenthompson@math.ucla.edu">ezrabenthompson@math.ucla.edu</a>)  |
 | _Office hours:_ | _TBA_                                                     |
