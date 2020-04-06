@@ -15,7 +15,7 @@ Your final grade will be calculated using the maximum of the following two gradi
 Option 1:
 
 ~~~
-30% (best 4 quiz scores) +
+30% (best 5 quiz scores) +
 20% (homework scores) +
 30% (combined midterm scores) +
 20% (final exam score)
@@ -25,7 +25,7 @@ Option 1:
 Option 2:
 
 ~~~
-30% (best 4 quiz scores) +
+30% (best 5 quiz scores) +
 20% (homework scores) +
 15% (best midterm score) +
 35% (final exam score)
