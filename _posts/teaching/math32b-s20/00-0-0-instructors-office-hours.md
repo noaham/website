@@ -14,7 +14,7 @@ weight: 100
 | _Office hours:_ | _Monday 4-5pm, Thursday 10-11am_                     |
 |                 |                                                                                     |
 | __TA:__         | Ezra Thompson (<a href="mailto:ezrabenthompson@math.ucla.edu">ezrabenthompson@math.ucla.edu</a>)  |
-| _Office hours:_ | _TBA_                                                     |
+| _Office hours:_ | _Tuesday 1-2pm_                                                     |
 |                 | Gyu Eun Lee (<a href="mailto:gyueun.lee@math.ucla.edu">gyueun.lee@math.ucla.edu</a>) |
 |                 | _Wednesday 6-7pm_                                                     |
 |                 | Joseph Breen (<a href="mailto:josephbreen@math.ucla.edu">josephbreen@math.ucla.edu</a>) |
