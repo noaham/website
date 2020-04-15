@@ -21,9 +21,9 @@ __Exam conduct:__ Exams will be open book and you will be able to use resources 
 __Study:__ Here I will post some rough study guides and practice exams which might aid your study.
 
 
-<!-- - [Midterm 1 practice 1](midterm1-practice1.pdf) ([solutions](midterm1-practice1-solutions.pdf)) -->
-<!-- - [Midterm 1 practice 2](midterm1-practice2.pdf) ([solutions](midterm1-practice2-solutions.pdf)) -->
-<!-- - [Midterm 1 practice 3](midterm1-practice3.pdf) ([solutions](midterm1-practice3-solutions.pdf)) -->
+- [Midterm 1 practice 1](midterm1-practice1.pdf) ([solutions](midterm1-practice1-solutions.pdf))
+- [Midterm 1 practice 2](midterm1-practice2.pdf) ([solutions](midterm1-practice2-solutions.pdf))
+- [Midterm 1 practice 3](midterm1-practice3.pdf) ([solutions](midterm1-practice3-solutions.pdf))
 <!-- - [Midterm 2 practice 1](midterm2-practice1.pdf) ([solutions](midterm2-practice1-solutions.pdf)) -->
 <!-- - [Midterm 2 practice 2](midterm2-practice2.pdf) ([solutions](midterm2-practice2-solutions.pdf)) -->
 <!-- - [Midterm 2 practice 3](midterm2-practice3.pdf) ([solutions](midterm2-practice3-solutions.pdf)) -->
