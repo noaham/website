@@ -34,3 +34,13 @@ In weeks 2, 6, 8, 10, a small number questions from the problem set will be assi
 [ps9]: ps/ps9.pdf
 [ps10]: ps/ps10.pdf
 
+[ps1s]: ps/ps1-solutions.pdf
+[ps2s]: ps/ps2-solutions.pdf
+[ps3s]: ps/ps3-solutions.pdf
+[ps4s]: ps/ps4-solutions.pdf
+[ps5s]: ps/ps5-solutions.pdf
+[ps6s]: ps/ps6-solutions.pdf
+[ps7s]: ps/ps7-solutions.pdf
+[ps8s]: ps/ps8-solutions.pdf
+[ps9s]: ps/ps9-solutions.pdf
+[ps10s]: ps/ps10-solutions.pdf
