@@ -18,7 +18,7 @@ In weeks 2, 6, 8, 10, a small number questions from the problem set will be assi
 - [Problem set 3][ps3] ([solutions][ps3s])
 - [Problem set 4][ps4] ([solutions][ps4s])
 - [Problem set 5][ps5] <!-- ([solutions][ps5s]) -->
-- [Problem set 6][ps6] <!-- ([solutions][ps6s])  -->
+- [Problem set 6][ps6] <!-- ([solutions][ps6s])  --> (HW: 2,5, and 6)
 <!-- - [Problem set 7][ps7] <\!-- ([solutions][ps7s]) -\-> -->
 <!-- - [Problem set 8][ps8] <\!-- ([solutions][ps8s])  -\-> -->
 <!-- - [Problem set 9][ps9] <\!-- ([solutions][ps9s])  -\-> -->
