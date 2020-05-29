@@ -19,9 +19,9 @@ In weeks 2, 6, 8, 10, a small number questions from the problem set will be assi
 - [Problem set 5][ps5]
 - [Problem set 6][ps6] ([solutions][ps6s]) (HW: 3,4,5, and 6)
 - [Problem set 7][ps7]
-- [Problem set 8][ps8] (HW: 3,4, and 5)
-<!-- - [Problem set 9][ps9]  -->
-<!-- - [Problem set 10][ps10] -->
+- [Problem set 8][ps8] ([solutions][ps8s]) (HW: 3,4, and 5)
+- [Problem set 9][ps9] (HW: 3,4, and 5)
+- [Problem set 10][ps10]
 
 [ps1]: ps/ps1.pdf
 [ps2]: ps/ps2.pdf
